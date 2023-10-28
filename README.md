@@ -9,3 +9,5 @@
 3- Executer retard pour simuler un retard sur une ligne du réseau et déterminer l'état du réseau après un temps choisi par l'utilisateur
 
 Le fichier Projet TIPE regroupe tout les fichers Python mais n'est pas assuré du fonctionnement
+
+/!\ S'assurer d'avoir tous les modules installés, ils sont indiqués en haut du fichier Projet TIPE.py
