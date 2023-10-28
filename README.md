@@ -1,6 +1,6 @@
 # TIPE-2023
 
-#Résultats dans le PDF#
+#Résultats dans le PDF dans Rendu/#
 
 1- Executer Lignes2, fichehorraire, triarretsnew avant le reste
 
