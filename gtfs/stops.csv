@@ -1,0 +1,1048 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+57,,"8 MAI 45",,49.099805,6.138669,,https://services.lemet.fr/fr/biv/arret/1530,0,,2
+46,,"8 MAI 45",,49.099927,6.138371,,https://services.lemet.fr/fr/biv/arret/1530,0,,2
+450,,"11ème D'AVIATION",,49.085890,6.146239,,https://services.lemet.fr/fr/biv/arret/7264,0,,2
+852,,"11ème D'AVIATION",,49.086159,6.145297,,https://services.lemet.fr/fr/biv/arret/7264,0,,2
+323,,"18 AOUT",,49.191534,6.034971,,,0,,1
+322,,"18 AOUT",,49.191388,6.035001,,,0,,1
+928,,"19 NOVEMBRE",,49.091774,6.161323,,https://services.lemet.fr/fr/biv/arret/1550,0,,2
+929,,"19 NOVEMBRE",,49.092028,6.161481,,https://services.lemet.fr/fr/biv/arret/1550,0,,2
+519,,"DEUX FONTAINES",,49.148061,6.171578,,https://services.lemet.fr/fr/biv/arret/1504,0,,2
+451,,"DEUX FONTAINES",,49.148956,6.171576,,https://services.lemet.fr/fr/biv/arret/1504,0,,2
+530,,"TRENTE JOURS",,49.096271,6.245860,,https://services.lemet.fr/fr/biv/arret/1580,0,,1
+536,,"TRENTE JOURS",,49.096403,6.245779,,https://services.lemet.fr/fr/biv/arret/1580,0,,1
+179,,"TROIS EVECHES",,49.106303,6.191888,,https://services.lemet.fr/fr/biv/arret/7413,0,,2
+101,,"TROIS HAIES",,49.090659,6.123135,,https://services.lemet.fr/fr/biv/arret/7464,0,,1
+115,,"TROIS HAIES",,49.090713,6.122693,,https://services.lemet.fr/fr/biv/arret/7464,0,,1
+161,,"QUATRE BORNES",,49.139202,6.153451,,https://services.lemet.fr/fr/biv/arret/1572,0,,1
+157,,"QUATRE BORNES",,49.139403,6.153449,,https://services.lemet.fr/fr/biv/arret/1572,0,,1
+362,,"QUATRE VENTS",,49.094514,6.176234,,https://services.lemet.fr/fr/biv/arret/1551,0,,1
+310,,"QUATRE VENTS",,49.094382,6.175952,,https://services.lemet.fr/fr/biv/arret/1551,0,,1
+806,,"ABBE BAUZIN",,49.189290,6.035000,,https://services.lemet.fr/fr/biv/arret/27650,0,,1
+802,,"ABBE BAUZIN",,49.189344,6.036790,,https://services.lemet.fr/fr/biv/arret/27650,0,,1
+591,,"AUBEPINE",,49.071569,6.193588,,https://services.lemet.fr/fr/biv/arret/7295,0,,1
+588,,"ACACIAS",,49.073443,6.184514,,https://services.lemet.fr/fr/biv/arret/1513,0,,2
+307,,"ACACIAS",,49.073284,6.184477,,https://services.lemet.fr/fr/biv/arret/1513,0,,2
+706,,"ACTISUD DUNIL",,49.076518,6.102841,,https://services.lemet.fr/fr/biv/arret/1596,0,,2
+707,,"ACTISUD DUNIL",,49.076467,6.102942,,https://services.lemet.fr/fr/biv/arret/1596,0,,2
+6180,,"FELIX ALCAN",,49.112572,6.199158,,https://services.lemet.fr/fr/biv/arret/7324,0,,1
+6185,,"FELIX ALCAN",,49.112733,6.197773,,https://services.lemet.fr/fr/biv/arret/7324,0,,1
+81,,"ALGER",,49.094445,6.135356,,https://services.lemet.fr/fr/biv/arret/7452,0,,1
+71,,"ALGER",,49.094330,6.134834,,https://services.lemet.fr/fr/biv/arret/7452,0,,1
+55,,"ALSACE",,49.097637,6.129110,,https://services.lemet.fr/fr/biv/arret/7453,0,,1
+48,,"ALSACE",,49.097844,6.129581,,https://services.lemet.fr/fr/biv/arret/7453,0,,1
+388,,"ALSACE-LORRAINE",,49.121440,6.194683,,https://services.lemet.fr/fr/biv/arret/7288,0,,1
+368,,"ALSACE-LORRAINE",,49.121304,6.195390,,https://services.lemet.fr/fr/biv/arret/7288,0,,1
+720,,"AMANVILLERS MAIRIE",,49.167365,6.044078,,https://services.lemet.fr/fr/biv/arret/28417,0,,1
+735,,"AMANVILLERS MAIRIE",,49.167371,6.043769,,https://services.lemet.fr/fr/biv/arret/28417,0,,1
+602,,"AMAZON",,49.064123,6.129319,,https://services.lemet.fr/fr/biv/arret/105996,0,,1
+680,,"AMPERE",,49.103321,6.228833,,https://services.lemet.fr/fr/biv/arret/7289,0,,1
+679,,"AMPERE",,49.103631,6.228814,,https://services.lemet.fr/fr/biv/arret/7289,0,,1
+249,,"APREMONT",,49.080330,6.187050,,https://services.lemet.fr/fr/biv/arret/7291,0,,1
+578,,"APREMONT",,49.080609,6.186506,,https://services.lemet.fr/fr/biv/arret/7291,0,,1
+6320,,"FRANCOIS ARAGO",,49.101866,6.224284,,https://services.lemet.fr/fr/biv/arret/61878,0,,1
+6325,,"FRANCOIS ARAGO",,49.101866,6.224284,,https://services.lemet.fr/fr/biv/arret/61878,0,,1
+2,,"FRANCOIS ARAGO",,49.100638,6.220992,,https://services.lemet.fr/fr/biv/arret/61878,0,,2
+35,,"FRANCOIS ARAGO",,49.100578,6.222063,,https://services.lemet.fr/fr/biv/arret/61878,0,,2
+576,,"FRANCOIS ARAGO",,49.101367,6.224181,,https://services.lemet.fr/fr/biv/arret/61878,0,,2
+577,,"FRANCOIS ARAGO",,49.101366,6.224181,,https://services.lemet.fr/fr/biv/arret/61878,0,,2
+767,,"ARBALETRIERS",,49.050773,6.187018,,https://services.lemet.fr/fr/biv/arret/7516,0,,1
+296,,"ARDECHE",,49.101048,6.106695,,https://services.lemet.fr/fr/biv/arret/7454,0,,2
+293,,"ARDECHE",,49.101426,6.106284,,https://services.lemet.fr/fr/biv/arret/7454,0,,2
+141,,"ARENES",,49.105977,6.173652,,https://services.lemet.fr/fr/biv/arret/1429,0,,1
+126,,"ARENES",,49.105932,6.173607,,https://services.lemet.fr/fr/biv/arret/1429,0,,1
+571,,"ARIANE",,49.095465,6.238675,,https://services.lemet.fr/fr/biv/arret/7292,0,,1
+568,,"ARIANE",,49.094854,6.238771,,https://services.lemet.fr/fr/biv/arret/7292,0,,1
+244,,"ARMOISIERES",,49.075620,6.189540,,https://services.lemet.fr/fr/biv/arret/26281,0,,2
+583,,"ARMOISIERES",,49.077294,6.189373,,https://services.lemet.fr/fr/biv/arret/26281,0,,2
+309,,"AUBEPINE",,49.072249,6.193072,,https://services.lemet.fr/fr/biv/arret/7295,0,,1
+499,,"ARSENAL",,49.122882,6.187083,,https://services.lemet.fr/fr/biv/arret/26282,0,,2
+476,,"ARSENAL",,49.122881,6.187075,,https://services.lemet.fr/fr/biv/arret/26282,0,,2
+454,,"ARS LAQUENEXY",,49.092781,6.270088,,https://services.lemet.fr/fr/biv/arret/1509,0,,2
+453,,"ARS LAQUENEXY",,49.092863,6.270358,,https://services.lemet.fr/fr/biv/arret/1509,0,,2
+826,,"ARS SUR MOSELLE",,49.075770,6.076469,,https://services.lemet.fr/fr/biv/arret/1443,0,,2
+822,,"ARS SUR MOSELLE",,49.075910,6.076660,,https://services.lemet.fr/fr/biv/arret/1443,0,,2
+6330,,"ARTS ET METIERS",,49.096509,6.226120,,https://services.lemet.fr/fr/biv/arret/1622,0,,1
+6335,,"ARTS ET METIERS",,49.096509,6.226118,,https://services.lemet.fr/fr/biv/arret/1622,0,,1
+390,,"ARTILLEURS",,49.120281,6.193512,,https://services.lemet.fr/fr/biv/arret/7294,0,,1
+366,,"ARTILLEURS",,49.120190,6.193145,,https://services.lemet.fr/fr/biv/arret/7294,0,,1
+725,,"ATELIERS MUNICIPAUX",,49.142480,6.121819,,https://services.lemet.fr/fr/biv/arret/1461,0,,2
+730,,"ATELIERS MUNICIPAUX",,49.142460,6.121421,,https://services.lemet.fr/fr/biv/arret/1461,0,,2
+429,,"AUBIGNY",,49.094182,6.269990,,https://services.lemet.fr/fr/biv/arret/6944,0,,1
+702,,"AUGNY MAIRIE",,49.058685,6.121884,,https://services.lemet.fr/fr/biv/arret/1434,0,,1
+711,,"AUGNY MAIRIE",,49.058673,6.121897,,https://services.lemet.fr/fr/biv/arret/1434,0,,1
+608,,"AULNES",,49.127244,6.207680,,https://services.lemet.fr/fr/biv/arret/1556,0,,1
+598,,"AULNES",,49.127299,6.207678,,https://services.lemet.fr/fr/biv/arret/1556,0,,1
+5020,,"AVENUE DE MAGNY",,49.064094,6.167042,,https://services.lemet.fr/fr/biv/arret/7265,0,,1
+5023,,"AZALEES",,49.067314,6.168029,,https://services.lemet.fr/fr/biv/arret/7266,0,,1
+488,,"BARBE",,49.129598,6.230058,,https://services.lemet.fr/fr/biv/arret/7760,0,,1
+487,,"BARBE",,49.129374,6.229538,,https://services.lemet.fr/fr/biv/arret/7760,0,,1
+408,,"BAUCHEZ",,49.136653,6.143134,,https://services.lemet.fr/fr/biv/arret/1582,0,,1
+401,,"BAUCHEZ",,49.136481,6.142772,,https://services.lemet.fr/fr/biv/arret/1582,0,,1
+761,,"BAZIN",,49.108830,6.087670,,,0,,2
+554,,"BEAUSOLEIL",,49.075849,6.187141,,https://services.lemet.fr/fr/biv/arret/1591,0,,2
+584,,"BEAUSOLEIL",,49.075712,6.186836,,https://services.lemet.fr/fr/biv/arret/1591,0,,2
+6200,,"BELLETANCHE",,49.110649,6.210641,,https://services.lemet.fr/fr/biv/arret/27299,0,,1
+6205,,"BELLETANCHE",,49.110649,6.210640,,https://services.lemet.fr/fr/biv/arret/27299,0,,1
+469,,"BELLE FONTAINE",,49.066876,6.142687,,https://services.lemet.fr/fr/biv/arret/1424,0,,2
+471,,"BELLE FONTAINE",,49.066950,6.142790,,https://services.lemet.fr/fr/biv/arret/1424,0,,2
+24,,"BELLETANCHE",,49.110186,6.209649,,https://services.lemet.fr/fr/biv/arret/27299,0,,2
+10,,"BELLETANCHE",,49.109866,6.208869,,https://services.lemet.fr/fr/biv/arret/27299,0,,2
+874,,"BELLEVUE",,49.172243,6.152899,,https://services.lemet.fr/fr/biv/arret/101929,0,,2
+6070,,"GEORGES BERNANOS",,49.133318,6.168920,,https://services.lemet.fr/fr/biv/arret/1631,0,,1
+6075,,"GEORGES BERNANOS",,49.133318,6.168920,,https://services.lemet.fr/fr/biv/arret/1631,0,,1
+892,,"BERLANGE",,49.155741,6.157121,,https://services.lemet.fr/fr/biv/arret/7780,0,,2
+893,,"BERLANGE",,49.156149,6.157198,,https://services.lemet.fr/fr/biv/arret/7780,0,,2
+166,,"GEORGES BERNANOS",,49.132944,6.167915,,https://services.lemet.fr/fr/biv/arret/1631,0,,1
+192,,"GEORGES BERNANOS",,49.132970,6.167800,,https://services.lemet.fr/fr/biv/arret/1631,0,,1
+472,,"BERNARD",,49.113890,6.212200,,https://services.lemet.fr/fr/biv/arret/7296,0,,2
+462,,"BERNARD",,49.114590,6.211458,,https://services.lemet.fr/fr/biv/arret/7296,0,,2
+389,,"BERNE",,49.122856,6.193868,,https://services.lemet.fr/fr/biv/arret/1416,0,,1
+367,,"BERNE",,49.122961,6.194159,,https://services.lemet.fr/fr/biv/arret/1416,0,,1
+12,,"PAUL BILAINE",,49.164420,6.033929,,https://services.lemet.fr/fr/biv/arret/105995,0,,1
+496,,"BILLOTTE",,49.125919,6.196648,,https://services.lemet.fr/fr/biv/arret/7590,0,,2
+479,,"BILLOTTE",,49.125580,6.197468,,https://services.lemet.fr/fr/biv/arret/7590,0,,2
+6230,,"HAUTS DE BLEMONT",,49.115617,6.225858,,https://services.lemet.fr/fr/biv/arret/1635,0,,1
+6235,,"HAUTS DE BLEMONT",,49.115617,6.225857,,https://services.lemet.fr/fr/biv/arret/1635,0,,1
+5021,,"BLEUETS",,49.066498,6.164469,,https://services.lemet.fr/fr/biv/arret/7267,0,,1
+612,,"BLIDA",,49.125886,6.181395,,https://services.lemet.fr/fr/biv/arret/1505,0,,2
+594,,"BLIDA",,49.125745,6.181341,,https://services.lemet.fr/fr/biv/arret/1505,0,,2
+537,,"BLORY",,49.087248,6.166820,,https://services.lemet.fr/fr/biv/arret/69991,0,,2
+353,,"BLORY",,49.087360,6.167410,,https://services.lemet.fr/fr/biv/arret/69991,0,,2
+455,,"BOILEAU",,49.142824,6.168608,,https://services.lemet.fr/fr/biv/arret/7297,0,,2
+444,,"BOILEAU",,49.142960,6.169393,,https://services.lemet.fr/fr/biv/arret/7297,0,,2
+140,,"BOILVIN",,49.103244,6.174837,,https://services.lemet.fr/fr/biv/arret/1565,0,,2
+127,,"BOILVIN",,49.103434,6.174773,,https://services.lemet.fr/fr/biv/arret/1565,0,,2
+111,,"BON SECOURS",,49.107062,6.168939,,https://services.lemet.fr/fr/biv/arret/1414,0,,1
+92,,"BON SECOURS",,49.107180,6.168711,,https://services.lemet.fr/fr/biv/arret/1414,0,,1
+6220,,"LES BORDES",,49.114383,6.220983,,https://services.lemet.fr/fr/biv/arret/7298,0,,1
+6225,,"LES BORDES",,49.114383,6.220983,,https://services.lemet.fr/fr/biv/arret/7298,0,,1
+21,,"LES BORDES",,49.114289,6.222095,,https://services.lemet.fr/fr/biv/arret/7298,0,,2
+13,,"LES BORDES",,49.114256,6.222136,,https://services.lemet.fr/fr/biv/arret/7298,0,,2
+65,,"BOTANIQUE",,49.103530,6.161950,,https://services.lemet.fr/fr/biv/arret/26284,0,,2
+38,,"BOTANIQUE",,49.103745,6.162015,,https://services.lemet.fr/fr/biv/arret/26284,0,,2
+253,,"BOUCHOTTE",,49.092605,6.181247,,https://services.lemet.fr/fr/biv/arret/1514,0,,2
+238,,"BOUCHOTTE",,49.092494,6.181268,,https://services.lemet.fr/fr/biv/arret/1514,0,,2
+994,,"BOURGOGNE",,49.114270,6.227250,,https://services.lemet.fr/fr/biv/arret/1537,0,,1
+993,,"BOURGOGNE",,49.114206,6.226991,,https://services.lemet.fr/fr/biv/arret/1537,0,,1
+17,,"BOUZONVILLE",,49.137809,6.217147,,https://services.lemet.fr/fr/biv/arret/104774,0,,1
+18,,"BOUZONVILLE",,49.137757,6.217148,,https://services.lemet.fr/fr/biv/arret/104774,0,,1
+5016,,"BRAZZA",,49.057216,6.167581,,https://services.lemet.fr/fr/biv/arret/7268,0,,1
+784,,"BREUIL",,49.160455,6.225830,,https://services.lemet.fr/fr/biv/arret/1471,0,,2
+783,,"BREUIL",,49.160373,6.225746,,https://services.lemet.fr/fr/biv/arret/1471,0,,2
+6300,,"HENRI BERGSON",,49.108553,6.220678,,https://services.lemet.fr/fr/biv/arret/1619,0,,1
+6305,,"HENRI BERGSON",,49.108553,6.220678,,https://services.lemet.fr/fr/biv/arret/1619,0,,1
+882,,"BRIEY",,49.159982,6.104300,,https://services.lemet.fr/fr/biv/arret/105994,0,,1
+881,,"BRIEY",,49.159996,6.104423,,https://services.lemet.fr/fr/biv/arret/105994,0,,1
+330,,"BRION",,49.129720,6.133051,,https://services.lemet.fr/fr/biv/arret/7508,0,,1
+321,,"BRION",,49.129800,6.134161,,https://services.lemet.fr/fr/biv/arret/7508,0,,1
+215,,"BEAU RIVAGE",,49.115957,6.150888,,https://services.lemet.fr/fr/biv/arret/1495,0,,1
+206,,"BEAU RIVAGE",,49.115925,6.150958,,https://services.lemet.fr/fr/biv/arret/1495,0,,1
+410,,"BUCHOZ",,49.135377,6.149340,,https://services.lemet.fr/fr/biv/arret/1464,0,,1
+399,,"BUCHOZ",,49.135269,6.149745,,https://services.lemet.fr/fr/biv/arret/1464,0,,1
+331,,"JEAN BURGER",,49.127914,6.194890,,,0,,1
+423,,"LA BUTTE",,49.133180,6.147326,,https://services.lemet.fr/fr/biv/arret/7346,0,,1
+415,,"LA BUTTE",,49.132846,6.147001,,https://services.lemet.fr/fr/biv/arret/7346,0,,1
+406,,"CAILLOUX",,49.134823,6.137339,,https://services.lemet.fr/fr/biv/arret/7509,0,,2
+403,,"CAILLOUX",,49.134414,6.136247,,https://services.lemet.fr/fr/biv/arret/7509,0,,2
+5022,,"CAMELIAS",,49.065974,6.159642,,https://services.lemet.fr/fr/biv/arret/26278,0,,2
+839,,"CARCAN",,49.093697,6.086800,,https://services.lemet.fr/fr/biv/arret/1603,0,,2
+838,,"CARCAN",,49.093788,6.086953,,https://services.lemet.fr/fr/biv/arret/1603,0,,2
+726,,"CARREFOUR",,49.144461,6.127705,,https://services.lemet.fr/fr/biv/arret/1462,0,,2
+729,,"CARREFOUR",,49.144416,6.127746,,https://services.lemet.fr/fr/biv/arret/1462,0,,2
+606,,"CARRIERES",,49.130021,6.209006,,https://services.lemet.fr/fr/biv/arret/7301,0,,1
+5042,,"CARRIERES",,49.129943,6.209638,,https://services.lemet.fr/fr/biv/arret/7301,0,,1
+6060,,"RENE CASSIN",,49.135897,6.165947,,https://services.lemet.fr/fr/biv/arret/7385,0,,1
+6065,,"RENE CASSIN",,49.135429,6.166355,,https://services.lemet.fr/fr/biv/arret/7385,0,,1
+26,,"CASERNE",,49.125038,6.180377,,https://services.lemet.fr/fr/biv/arret/105998,0,,1
+214,,"CASINO",,49.116462,6.141333,,https://services.lemet.fr/fr/biv/arret/1585,0,,1
+207,,"CASINO",,49.116590,6.141350,,https://services.lemet.fr/fr/biv/arret/1585,0,,1
+332,,"CASTORS",,49.128455,6.145880,,https://services.lemet.fr/fr/biv/arret/1490,0,,1
+319,,"CASTORS",,49.128528,6.145790,,https://services.lemet.fr/fr/biv/arret/1490,0,,1
+5081,,"CEDRE BLEU",,49.033846,6.158180,,https://services.lemet.fr/fr/biv/arret/28060,0,,1
+5082,,"CEDRE BLEU",,49.033781,6.158202,,https://services.lemet.fr/fr/biv/arret/28060,0,,1
+609,,"CEDRES",,49.127402,6.211912,,https://services.lemet.fr/fr/biv/arret/1557,0,,1
+597,,"CEDRES",,49.127435,6.211657,,https://services.lemet.fr/fr/biv/arret/1557,0,,1
+626,,"CENTRALE",,49.155053,6.185996,,https://services.lemet.fr/fr/biv/arret/7279,0,,2
+618,,"CENTRALE",,49.154657,6.186342,,https://services.lemet.fr/fr/biv/arret/7279,0,,2
+6030,,"DOCTEUR CHARCOT",,49.148334,6.166976,,https://services.lemet.fr/fr/biv/arret/1629,0,,1
+6035,,"DOCTEUR CHARCOT",,49.148333,6.166976,,https://services.lemet.fr/fr/biv/arret/1629,0,,1
+660,,"CHAHURY",,49.117684,6.084856,,https://services.lemet.fr/fr/biv/arret/6995,0,,2
+313,,"CHAHURY",,49.118360,6.084331,,https://services.lemet.fr/fr/biv/arret/6995,0,,2
+209,,"CHAMBIERE",,49.128012,6.185589,,https://services.lemet.fr/fr/biv/arret/7302,0,,2
+208,,"CHAMBIERE",,49.127445,6.184454,,https://services.lemet.fr/fr/biv/arret/7302,0,,2
+5071,,"CHAMPAGNE",,49.041489,6.160633,,https://services.lemet.fr/fr/biv/arret/7009,0,,2
+5073,,"CHAMPAGNE",,49.041291,6.160845,,https://services.lemet.fr/fr/biv/arret/7009,0,,2
+809,,"CHAMP BANAL",,49.172679,6.045553,,https://services.lemet.fr/fr/biv/arret/6934,0,,1
+791,,"CHANTRENNE",,49.144089,6.010451,,https://services.lemet.fr/fr/biv/arret/7769,0,,1
+723,,"CHAPELLE",,49.141719,6.115710,,https://services.lemet.fr/fr/biv/arret/1459,0,,2
+732,,"CHAPELLE",,49.141710,6.115170,,https://services.lemet.fr/fr/biv/arret/1459,0,,2
+855,,"CHAPITRE",,49.152114,6.161439,,https://services.lemet.fr/fr/biv/arret/1544,0,,2
+741,,"CHAPITRE",,49.152099,6.161795,,https://services.lemet.fr/fr/biv/arret/1544,0,,2
+529,,"CHAPPE",,49.107270,6.220800,,https://services.lemet.fr/fr/biv/arret/28068,0,,2
+567,,"CHAPPE",,49.107078,6.222231,,https://services.lemet.fr/fr/biv/arret/28068,0,,1
+573,,"CHAPPE",,49.106646,6.221859,,https://services.lemet.fr/fr/biv/arret/28068,0,,1
+452,,"DE CHARDIN",,49.144521,6.171863,,https://services.lemet.fr/fr/biv/arret/7311,0,,1
+449,,"DE CHARDIN",,49.144072,6.172134,,https://services.lemet.fr/fr/biv/arret/7311,0,,1
+318,,"CHATEL-ST-GERMAIN",,49.124869,6.078875,,https://services.lemet.fr/fr/biv/arret/6996,0,,1
+316,,"CHATEL-ST-GERMAIN",,49.124708,6.079168,,https://services.lemet.fr/fr/biv/arret/6996,0,,1
+3003,,"CHATRIAN",,49.103365,6.148971,,https://services.lemet.fr/fr/biv/arret/1534,0,,1
+3014,,"CHATRIAN",,49.103241,6.148767,,https://services.lemet.fr/fr/biv/arret/1534,0,,1
+749,,"LES CHAULMES",,49.133547,6.276049,,https://services.lemet.fr/fr/biv/arret/7494,0,,2
+756,,"LES CHAULMES",,49.133763,6.275898,,https://services.lemet.fr/fr/biv/arret/7494,0,,2
+5068,,"LE CHAVEAU",,49.032045,6.150858,,https://services.lemet.fr/fr/biv/arret/1420,0,,2
+5076,,"LE CHAVEAU",,49.032098,6.150974,,https://services.lemet.fr/fr/biv/arret/1420,0,,2
+657,,"CHEMIN DES DAMES",,49.117186,6.087779,,https://services.lemet.fr/fr/biv/arret/6997,0,,2
+661,,"CHEMIN DES DAMES",,49.116909,6.088335,,https://services.lemet.fr/fr/biv/arret/6997,0,,2
+813,,"CHENEAU",,49.108874,6.120753,,https://services.lemet.fr/fr/biv/arret/1602,0,,2
+812,,"CHENEAU",,49.108911,6.120849,,https://services.lemet.fr/fr/biv/arret/1602,0,,2
+624,,"CHENEVIERES",,49.165758,6.189607,,https://services.lemet.fr/fr/biv/arret/1503,0,,2
+620,,"CHENEVIERES",,49.165848,6.189651,,https://services.lemet.fr/fr/biv/arret/1503,0,,2
+849,,"CHEMIN NOIR",,49.114183,6.097958,,https://services.lemet.fr/fr/biv/arret/1600,0,,2
+848,,"CHEMIN NOIR",,49.114174,6.098110,,https://services.lemet.fr/fr/biv/arret/1600,0,,2
+985,,"CHESNY",,49.053926,6.241586,,https://services.lemet.fr/fr/biv/arret/105997,0,,1
+991,,"CHESNY MAIRIE",,49.054562,6.242312,,https://services.lemet.fr/fr/biv/arret/7001,0,,1
+975,,"CHESNY",,49.054246,6.241639,,https://services.lemet.fr/fr/biv/arret/105997,0,,1
+776,,"CHEVRE HAIE",,49.054793,6.187605,,https://services.lemet.fr/fr/biv/arret/28061,0,,1
+777,,"CHEVRE HAIE",,49.054793,6.187367,,https://services.lemet.fr/fr/biv/arret/28061,0,,1
+962,,"CHEVROTTES",,49.092723,6.274342,,https://services.lemet.fr/fr/biv/arret/1508,0,,1
+961,,"CHEVROTTES",,49.092687,6.274646,,https://services.lemet.fr/fr/biv/arret/1508,0,,1
+747,,"CHIEULLES",,49.159388,6.228902,,https://services.lemet.fr/fr/biv/arret/1470,0,,2
+746,,"CHIEULLES",,49.159482,6.228822,,https://services.lemet.fr/fr/biv/arret/1470,0,,2
+124,,"LES CHILOUX",,49.148670,6.142922,,https://services.lemet.fr/fr/biv/arret/70128,0,,1
+125,,"LES CHILOUX",,49.148845,6.143083,,https://services.lemet.fr/fr/biv/arret/70128,0,,1
+649,,"CHATEL MAIRIE",,49.122211,6.081531,,https://services.lemet.fr/fr/biv/arret/69989,0,,2
+110,,"CHARLES PETRE",,49.105162,6.166510,,https://services.lemet.fr/fr/biv/arret/1428,0,,2
+93,,"CHARLES PETRE",,49.105362,6.166723,,https://services.lemet.fr/fr/biv/arret/1428,0,,2
+6190,,"CIMETIERE DE L'EST",,49.109880,6.203370,,https://services.lemet.fr/fr/biv/arret/26285,0,,1
+6195,,"CIMETIERE DE L'EST",,49.109380,6.204139,,https://services.lemet.fr/fr/biv/arret/26285,0,,1
+5048,,"CIMETIERE",,49.137145,6.205757,,https://services.lemet.fr/fr/biv/arret/1473,0,,1
+5038,,"CIMETIERE",,49.137238,6.205973,,https://services.lemet.fr/fr/biv/arret/1473,0,,1
+79,,"CITE SNCF",,49.090910,6.129128,,https://services.lemet.fr/fr/biv/arret/7455,0,,1
+73,,"CITE SNCF",,49.090555,6.127341,,https://services.lemet.fr/fr/biv/arret/7455,0,,1
+186,,"CLAUDEL",,49.101696,6.199568,,https://services.lemet.fr/fr/biv/arret/7306,0,,1
+189,,"CLAUDEL",,49.101675,6.198796,,https://services.lemet.fr/fr/biv/arret/7306,0,,1
+827,,"CLEMENCEAU",,49.080950,6.084650,,https://services.lemet.fr/fr/biv/arret/6945,0,,1
+821,,"CLEMENCEAU",,49.080190,6.083839,,https://services.lemet.fr/fr/biv/arret/6945,0,,1
+1021,,"RUE DES CLERCS",,49.117634,6.174177,,https://services.lemet.fr/fr/biv/arret/28071,0,,2
+314,,"CLERY",,49.122054,6.080144,,https://services.lemet.fr/fr/biv/arret/6998,0,,2
+659,,"CLERY",,49.121180,6.080617,,https://services.lemet.fr/fr/biv/arret/6998,0,,2
+405,,"CLETTE",,49.133306,6.133817,,https://services.lemet.fr/fr/biv/arret/1581,0,,2
+404,,"CLETTE",,49.133149,6.133578,,https://services.lemet.fr/fr/biv/arret/1581,0,,2
+932,,"CLEMENT ADER",,49.089306,6.149641,,https://services.lemet.fr/fr/biv/arret/26314,0,,2
+925,,"CLEMENT ADER",,49.089360,6.149513,,https://services.lemet.fr/fr/biv/arret/26314,0,,2
+6240,,"CLOUTIERS",,49.114068,6.230111,,https://services.lemet.fr/fr/biv/arret/1636,0,,1
+6245,,"CLOUTIERS",,49.114069,6.230111,,https://services.lemet.fr/fr/biv/arret/1636,0,,1
+552,,"CLOUTIERS",,49.114657,6.228721,,https://services.lemet.fr/fr/biv/arret/1636,0,,1
+549,,"CLOUTIERS",,49.114841,6.229425,,https://services.lemet.fr/fr/biv/arret/1636,0,,1
+1022,,"COETLOSQUET",,49.114505,6.176820,,https://services.lemet.fr/fr/biv/arret/29331,0,,2
+1023,,"COETLOSQUET",,49.114410,6.176863,,https://services.lemet.fr/fr/biv/arret/29331,0,,2
+5069,,"COIN-LES-CUVRY",,49.033599,6.155319,,https://services.lemet.fr/fr/biv/arret/1421,0,,2
+5075,,"COIN-LES-CUVRY",,49.033533,6.155111,,https://services.lemet.fr/fr/biv/arret/1421,0,,2
+5067,,"COIN-SUR-SEILLE",,49.009062,6.159809,,https://services.lemet.fr/fr/biv/arret/7005,0,,1
+6250,,"COLOMBEY",,49.110852,6.230559,,https://services.lemet.fr/fr/biv/arret/1637,0,,1
+6255,,"COLOMBEY",,49.110852,6.230559,,https://services.lemet.fr/fr/biv/arret/1637,0,,1
+413,,"COLIBRI",,49.130282,6.158433,,https://services.lemet.fr/fr/biv/arret/7307,0,,1
+396,,"COLIBRI",,49.130103,6.158698,,https://services.lemet.fr/fr/biv/arret/7307,0,,2
+553,,"COLLEGE JEAN BAUCHEZ",,49.124066,6.152114,,https://services.lemet.fr/fr/biv/arret/69988,0,,2
+347,,"COLLIGNON",,49.104216,6.187226,,https://services.lemet.fr/fr/biv/arret/7308,0,,2
+337,,"COLLIGNON",,49.104450,6.187221,,https://services.lemet.fr/fr/biv/arret/7308,0,,2
+781,,"COLOMBIER",,49.048271,6.185544,,https://services.lemet.fr/fr/biv/arret/7517,0,,2
+103,,"COLSON",,49.090403,6.166435,,https://services.lemet.fr/fr/biv/arret/7426,0,,1
+100,,"COLSON",,49.089855,6.166131,,https://services.lemet.fr/fr/biv/arret/7426,0,,1
+129,,"CONSERVATOIRE",,49.120684,6.181183,,https://services.lemet.fr/fr/biv/arret/105999,0,,1
+87,,"CONSTANTINE",,49.092004,6.125538,,https://services.lemet.fr/fr/biv/arret/7456,0,,1
+83,,"CONSTANTINE",,49.092329,6.125090,,https://services.lemet.fr/fr/biv/arret/7456,0,,1
+964,,"CORBON",,49.067530,6.256580,,https://services.lemet.fr/fr/biv/arret/7202,0,,2
+906,,"CORBON",,49.067522,6.256128,,https://services.lemet.fr/fr/biv/arret/7202,0,,1
+492,,"CORCHADE",,49.123104,6.215393,,https://services.lemet.fr/fr/biv/arret/1489,0,,2
+483,,"CORCHADE",,49.123113,6.215394,,https://services.lemet.fr/fr/biv/arret/1489,0,,2
+5035,,"COSTES ET BELLONTE",,49.083529,6.148852,,https://services.lemet.fr/fr/biv/arret/7270,0,,1
+5001,,"COSTES ET BELLONTE",,49.084244,6.149394,,https://services.lemet.fr/fr/biv/arret/7270,0,,1
+688,,"COTEAUX",,49.154783,6.148493,,https://services.lemet.fr/fr/biv/arret/26333,0,,1
+687,,"COTEAUX",,49.154923,6.148907,,https://services.lemet.fr/fr/biv/arret/26333,0,,1
+8323,,"COTEAUX DE LA SEILLE",,49.097925,6.189406,,https://services.lemet.fr/fr/biv/arret/60127,0,,2
+8324,,"COTEAUX DE LA SEILLE",,49.097811,6.189652,,https://services.lemet.fr/fr/biv/arret/60127,0,,2
+691,,"COUBERTIN",,49.091847,6.144800,,https://services.lemet.fr/fr/biv/arret/7427,0,,1
+506,,"COUBERTIN",,49.092130,6.144821,,https://services.lemet.fr/fr/biv/arret/7427,0,,1
+159,,"COUPILLON",,49.141383,6.148190,,https://services.lemet.fr/fr/biv/arret/1573,0,,2
+630,,"COUPILLON",,49.141640,6.148119,,https://services.lemet.fr/fr/biv/arret/1573,0,,2
+20,,"COUR D'OR",,49.121007,6.177989,,https://services.lemet.fr/fr/biv/arret/106000,0,,1
+3004,,"COUVENTS",,49.103300,6.153439,,https://services.lemet.fr/fr/biv/arret/17421,0,,1
+3013,,"COUVENTS",,49.103599,6.152313,,https://services.lemet.fr/fr/biv/arret/17421,0,,1
+831,,"CRIMEE",,49.114362,6.112973,,https://services.lemet.fr/fr/biv/arret/7626,0,,2
+830,,"CRIMEE",,49.113563,6.113576,,https://services.lemet.fr/fr/biv/arret/7626,0,,2
+326,,"CROIX D'OREE",,49.132311,6.125594,,https://services.lemet.fr/fr/biv/arret/7510,0,,2
+829,,"CROISEMENT RD6",,49.093033,6.094850,,https://services.lemet.fr/fr/biv/arret/7766,0,,2
+819,,"CROISEMENT RD6",,49.093843,6.095458,,https://services.lemet.fr/fr/biv/arret/7766,0,,2
+6270,,"CITE U",,49.120318,6.159563,,https://services.lemet.fr/fr/biv/arret/7305,0,,1
+6275,,"CITE U",,49.119988,6.159676,,https://services.lemet.fr/fr/biv/arret/7305,0,,1
+315,,"CUGNOT",,49.085499,6.163466,,https://services.lemet.fr/fr/biv/arret/7428,0,,1
+570,,"CUVION",,49.092441,6.242709,,https://services.lemet.fr/fr/biv/arret/1511,0,,1
+569,,"CUVION",,49.092437,6.242739,,https://services.lemet.fr/fr/biv/arret/1511,0,,1
+5000,,"CUVRY",,49.042924,6.158807,,https://services.lemet.fr/fr/biv/arret/1422,0,,2
+5072,,"CUVRY",,49.042924,6.158807,,https://services.lemet.fr/fr/biv/arret/1422,0,,2
+891,,"D953",,49.162702,6.160188,,https://services.lemet.fr/fr/biv/arret/1500,0,,2
+894,,"D953",,49.162763,6.160208,,https://services.lemet.fr/fr/biv/arret/1500,0,,2
+162,,"DAGA",,49.136627,6.155927,,https://services.lemet.fr/fr/biv/arret/1571,0,,2
+156,,"DAGA",,49.136455,6.155988,,https://services.lemet.fr/fr/biv/arret/1571,0,,2
+559,,"DALES",,49.132861,6.165016,,https://services.lemet.fr/fr/biv/arret/7310,0,,1
+997,,"DALES",,49.133230,6.164190,,https://services.lemet.fr/fr/biv/arret/7310,0,,1
+259,,"DEMBOUR",,49.106263,6.179429,,https://services.lemet.fr/fr/biv/arret/70857,0,,1
+232,,"DEMBOUR",,49.106523,6.179279,,https://services.lemet.fr/fr/biv/arret/70857,0,,1
+180,,"DEVILLY",,49.105037,6.194409,,https://services.lemet.fr/fr/biv/arret/7313,0,,2
+546,,"DOLICHE",,49.094073,6.245623,,https://services.lemet.fr/fr/biv/arret/7314,0,,1
+146,,"DOLICHE",,49.094632,6.245910,,https://services.lemet.fr/fr/biv/arret/7314,0,,1
+810,,"DOUANIERS",,49.170071,6.047941,,https://services.lemet.fr/fr/biv/arret/6935,0,,1
+448,,"DRAPIERS",,49.109577,6.247579,,https://services.lemet.fr/fr/biv/arret/1554,0,,1
+445,,"DRAPIERS",,49.109489,6.247751,,https://services.lemet.fr/fr/biv/arret/1554,0,,1
+346,,"DUCROCQ",,49.101894,6.188220,,https://services.lemet.fr/fr/biv/arret/7315,0,,1
+338,,"DUCROCQ",,49.101336,6.188396,,https://services.lemet.fr/fr/biv/arret/7315,0,,1
+495,,"DUNANT",,49.123674,6.203367,,https://services.lemet.fr/fr/biv/arret/7316,0,,2
+480,,"DUNANT",,49.123912,6.202341,,https://services.lemet.fr/fr/biv/arret/7316,0,,2
+178,,"DUPLOYE",,49.109431,6.189069,,https://services.lemet.fr/fr/biv/arret/7317,0,,2
+474,,"DURUTTE",,49.113730,6.202620,,https://services.lemet.fr/fr/biv/arret/69985,0,,2
+460,,"DURUTTE",,49.113710,6.202610,,https://services.lemet.fr/fr/biv/arret/69985,0,,2
+6340,,"GRANDES ECOLES",,49.093373,6.230112,,https://services.lemet.fr/fr/biv/arret/1623,0,,1
+6345,,"GRANDES ECOLES",,49.093373,6.230111,,https://services.lemet.fr/fr/biv/arret/1623,0,,1
+5026,,"LES ECOLES",,49.058991,6.156305,,https://services.lemet.fr/fr/biv/arret/1560,0,,1
+5011,,"LES ECOLES",,49.058850,6.156548,,https://services.lemet.fr/fr/biv/arret/1560,0,,1
+138,,"EGLISE",,49.099076,6.173745,,https://services.lemet.fr/fr/biv/arret/7318,0,,1
+236,,"EGLISE",,49.098724,6.173378,,https://services.lemet.fr/fr/biv/arret/7318,0,,1
+5054,,"ERABLES",,49.131655,6.205405,,https://services.lemet.fr/fr/biv/arret/26325,0,,1
+5040,,"ERABLES",,49.131326,6.205180,,https://services.lemet.fr/fr/biv/arret/26325,0,,1
+789,,"ERMITAGE",,49.118285,6.096176,,https://services.lemet.fr/fr/biv/arret/1598,0,,2
+786,,"ERMITAGE",,49.118339,6.096493,,https://services.lemet.fr/fr/biv/arret/1598,0,,2
+64,,"EUROPA COURCELLES",,49.101840,6.158270,,https://services.lemet.fr/fr/biv/arret/7429,0,,1
+39,,"EUROPA COURCELLES",,49.102140,6.158850,,https://services.lemet.fr/fr/biv/arret/7429,0,,1
+6350,,"P+R FOIRE EXPO",,49.091479,6.231423,,https://services.lemet.fr/fr/biv/arret/1624,0,,1
+6355,,"P+R FOIRE EXPO",,49.091478,6.231423,,https://services.lemet.fr/fr/biv/arret/1624,0,,1
+752,,"FALEE",,49.132878,6.252840,,https://services.lemet.fr/fr/biv/arret/7497,0,,1
+753,,"FALEE",,49.133140,6.253600,,https://services.lemet.fr/fr/biv/arret/7497,0,,1
+430,,"FALOGNE",,49.098031,6.240201,,https://services.lemet.fr/fr/biv/arret/1524,0,,2
+428,,"FALOGNE",,49.098061,6.240259,,https://services.lemet.fr/fr/biv/arret/1524,0,,2
+250,,"FAUBOURG",,49.085410,6.182650,,https://services.lemet.fr/fr/biv/arret/26287,0,,1
+251,,"FAUBOURG",,49.085047,6.182645,,https://services.lemet.fr/fr/biv/arret/26287,0,,1
+431,,"FAURNEL",,49.100494,6.243039,,https://services.lemet.fr/fr/biv/arret/7322,0,,1
+427,,"FAURNEL",,49.099855,6.242892,,https://services.lemet.fr/fr/biv/arret/7322,0,,1
+425,,"FEIVRES",,49.115093,6.240704,,https://services.lemet.fr/fr/biv/arret/7323,0,,1
+426,,"FEIVRES",,49.114811,6.240075,,https://services.lemet.fr/fr/biv/arret/7323,0,,1
+320,,"FELIX MARECHAL",,49.129290,6.137230,,https://services.lemet.fr/fr/biv/arret/26288,0,,1
+376,,"FELIX MARECHAL",,49.129169,6.137807,,https://services.lemet.fr/fr/biv/arret/26288,0,,1
+420,,"FELIX MARECHAL",,49.129490,6.138200,,https://services.lemet.fr/fr/biv/arret/26288,0,,1
+845,,"FEY VILLAGE",,49.029107,6.096660,,https://services.lemet.fr/fr/biv/arret/1432,0,,2
+841,,"FEY VILLAGE",,49.029064,6.096633,,https://services.lemet.fr/fr/biv/arret/1432,0,,2
+291,,"FORT MOSELLE",,49.123970,6.165111,,https://services.lemet.fr/fr/biv/arret/26289,0,,2
+265,,"FORT MOSELLE",,49.124674,6.164548,,https://services.lemet.fr/fr/biv/arret/26289,0,,2
+515,,"FOCH",,49.120700,6.148530,,https://services.lemet.fr/fr/biv/arret/6958,0,,1
+229,,"FOCH",,49.120940,6.148440,,https://services.lemet.fr/fr/biv/arret/6958,0,,1
+6020,,"DEUX FONTAINES",,49.149369,6.172123,,https://services.lemet.fr/fr/biv/arret/1628,0,,1
+6025,,"DEUX FONTAINES",,49.149369,6.172123,,https://services.lemet.fr/fr/biv/arret/1628,0,,1
+564,,"FONNY",,49.129600,6.235049,,https://services.lemet.fr/fr/biv/arret/1485,0,,2
+562,,"FONNY",,49.129560,6.234880,,https://services.lemet.fr/fr/biv/arret/1485,0,,2
+686,,"FOSSE",,49.100456,6.145343,,https://services.lemet.fr/fr/biv/arret/1532,0,,2
+685,,"FOSSE",,49.100239,6.145210,,https://services.lemet.fr/fr/biv/arret/1532,0,,2
+381,,"FOUGERES",,49.122548,6.218963,,https://services.lemet.fr/fr/biv/arret/7327,0,,1
+375,,"FOUGERES",,49.121796,6.219060,,https://services.lemet.fr/fr/biv/arret/7327,0,,1
+697,,"FOURNIER",,49.122430,6.183338,,https://services.lemet.fr/fr/biv/arret/1477,0,,2
+696,,"FOURNIER",,49.122442,6.183439,,https://services.lemet.fr/fr/biv/arret/1477,0,,2
+1008,,"EN FOURNIRUE",,49.118009,6.178726,,https://services.lemet.fr/fr/biv/arret/7319,0,,2
+622,,"FRANCLONCHAMPS",,49.171176,6.189698,,https://services.lemet.fr/fr/biv/arret/7280,0,,2
+252,,"FRECOT",,49.090622,6.181629,,https://services.lemet.fr/fr/biv/arret/7329,0,,2
+239,,"FRECOT",,49.091320,6.181540,,https://services.lemet.fr/fr/biv/arret/7329,0,,1
+605,,"FRENES",,49.131715,6.211300,,https://services.lemet.fr/fr/biv/arret/26290,0,,1
+5043,,"FRENES",,49.132258,6.211787,,https://services.lemet.fr/fr/biv/arret/26290,0,,1
+349,,"FRIANT",,49.108489,6.187704,,https://services.lemet.fr/fr/biv/arret/26291,0,,1
+335,,"FRIANT",,49.108292,6.187799,,https://services.lemet.fr/fr/biv/arret/26291,0,,1
+58,,"LES FRICHES",,49.099956,6.141987,,https://services.lemet.fr/fr/biv/arret/1531,0,,1
+45,,"LES FRICHES",,49.100092,6.141906,,https://services.lemet.fr/fr/biv/arret/1531,0,,1
+727,,"FRIERES",,49.140225,6.135597,,https://services.lemet.fr/fr/biv/arret/7231,0,,2
+728,,"FRIERES",,49.140389,6.135206,,https://services.lemet.fr/fr/biv/arret/7231,0,,2
+971,,"FRONTIGNY",,49.058520,6.264080,,https://services.lemet.fr/fr/biv/arret/7284,0,,2
+989,,"FRONTIGNY",,49.058560,6.263770,,https://services.lemet.fr/fr/biv/arret/7284,0,,2
+459,,"GAMBETTA",,49.149412,6.159712,,https://services.lemet.fr/fr/biv/arret/7782,0,,2
+475,,"GAMBETTA",,49.149042,6.159950,,https://services.lemet.fr/fr/biv/arret/61889,0,,2
+473,,"GANNE",,49.115663,6.203952,,https://services.lemet.fr/fr/biv/arret/26292,0,,1
+461,,"GANNE",,49.115691,6.205455,,https://services.lemet.fr/fr/biv/arret/26292,0,,1
+6140,,"GARE",,49.110368,6.177609,,https://services.lemet.fr/fr/biv/arret/7334,0,,1
+6145,,"GARE",,49.110368,6.177612,,https://services.lemet.fr/fr/biv/arret/7334,0,,1
+113,,"GARE",,49.110333,6.175233,,https://services.lemet.fr/fr/biv/arret/7334,0,,2
+30,,"GARE",,49.111060,6.177060,,https://services.lemet.fr/fr/biv/arret/7334,0,,2
+4,,"GARE",,49.110660,6.176990,,https://services.lemet.fr/fr/biv/arret/7334,0,,2
+90,,"GARE",,49.110090,6.176000,,https://services.lemet.fr/fr/biv/arret/7334,0,,2
+712,,"GARE D'AUGNY",,49.070241,6.137608,,https://services.lemet.fr/fr/biv/arret/1430,0,,2
+701,,"GARE D'AUGNY",,49.070173,6.137548,,https://services.lemet.fr/fr/biv/arret/1430,0,,2
+5033,,"GARENNES",,49.076504,6.146581,,https://services.lemet.fr/fr/biv/arret/1425,0,,1
+5003,,"GARENNES",,49.076504,6.146581,,https://services.lemet.fr/fr/biv/arret/1425,0,,1
+860,,"GARE DE WOIPPY",,49.148622,6.155402,,https://services.lemet.fr/fr/biv/arret/1449,0,,2
+857,,"GARE DE WOIPPY",,49.148684,6.155414,,https://services.lemet.fr/fr/biv/arret/1449,0,,2
+966,,"GARGAN",,49.075660,6.226840,,https://services.lemet.fr/fr/biv/arret/1604,0,,2
+982,,"GARGAN",,49.075720,6.226751,,https://services.lemet.fr/fr/biv/arret/1604,0,,2
+575,,"GRANDES ECOLES",,49.093513,6.229834,,https://services.lemet.fr/fr/biv/arret/1623,0,,1
+854,,"GRANDES ECOLES",,49.093679,6.230222,,https://services.lemet.fr/fr/biv/arret/1623,0,,1
+808,,"GRANDE FLAMEE",,49.182847,6.040271,,https://services.lemet.fr/fr/biv/arret/7602,0,,1
+344,,"GRANDMAISON",,49.098141,6.194560,,https://services.lemet.fr/fr/biv/arret/7339,0,,1
+340,,"GRANDMAISON",,49.098026,6.194235,,https://services.lemet.fr/fr/biv/arret/7339,0,,1
+194,,"GENDARMERIE",,49.104692,6.199506,,https://services.lemet.fr/fr/biv/arret/1519,0,,1
+182,,"GENDARMERIE",,49.104620,6.199807,,https://services.lemet.fr/fr/biv/arret/1519,0,,1
+342,,"GENERAL FRERE",,49.099973,6.205506,,https://services.lemet.fr/fr/biv/arret/7335,0,,1
+566,,"GENERAL FRERE",,49.100258,6.206111,,https://services.lemet.fr/fr/biv/arret/7335,0,,1
+66,,"GENIE",,49.105495,6.163655,,https://services.lemet.fr/fr/biv/arret/7336,0,,1
+37,,"GENIE",,49.105230,6.163460,,https://services.lemet.fr/fr/biv/arret/7336,0,,1
+382,,"GENIVAUX",,49.122093,6.216607,,https://services.lemet.fr/fr/biv/arret/1419,0,,2
+374,,"GENIVAUX",,49.122094,6.216592,,https://services.lemet.fr/fr/biv/arret/1419,0,,2
+343,,"GIRAUDOUX",,49.097516,6.199615,,https://services.lemet.fr/fr/biv/arret/7337,0,,2
+341,,"GIRAUDOUX",,49.097190,6.200550,,https://services.lemet.fr/fr/biv/arret/7337,0,,2
+846,,"GLISSU",,49.055839,6.119819,,https://services.lemet.fr/fr/biv/arret/1433,0,,1
+840,,"GLISSU",,49.055862,6.119844,,https://services.lemet.fr/fr/biv/arret/1433,0,,1
+187,,"GOUSSEL",,49.101521,6.194532,,https://services.lemet.fr/fr/biv/arret/7338,0,,1
+188,,"GOUSSEL",,49.101557,6.195569,,https://services.lemet.fr/fr/biv/arret/7338,0,,1
+6310,,"GRAHAM BELL",,49.105102,6.223345,,https://services.lemet.fr/fr/biv/arret/1620,0,,1
+6315,,"GRAHAM BELL",,49.105102,6.223345,,https://services.lemet.fr/fr/biv/arret/1620,0,,1
+795,,"GRAVELOTTE EGLISE",,49.109121,6.030342,,https://services.lemet.fr/fr/biv/arret/1440,0,,1
+793,,"GRAVELOTTE EGLISE",,49.109137,6.030328,,https://services.lemet.fr/fr/biv/arret/1440,0,,1
+963,,"GRAVIERES",,49.080800,6.110390,,https://services.lemet.fr/fr/biv/arret/26272,0,,2
+627,,"GRANGE-AUX-DAMES",,49.146123,6.190577,,https://services.lemet.fr/fr/biv/arret/7281,0,,2
+617,,"GRANGE-AUX-DAMES",,49.146467,6.190832,,https://services.lemet.fr/fr/biv/arret/7281,0,,2
+721,,"AMANVILLERS GRAND RUE",,49.168624,6.048391,,https://services.lemet.fr/fr/biv/arret/1457,0,,1
+734,,"AMANVILLERS GRAND RUE",,49.168641,6.048531,,https://services.lemet.fr/fr/biv/arret/1457,0,,1
+354,,"GRELLOIS",,49.118410,6.218702,,,0,,1
+356,,"GRELLOIS",,49.118381,6.218578,,,0,,1
+895,,"GRIGY",,49.095068,6.220689,,https://services.lemet.fr/fr/biv/arret/1579,0,,1
+898,,"GRIGY",,49.095073,6.220749,,https://services.lemet.fr/fr/biv/arret/1579,0,,1
+5057,,"GRIMONT",,49.140488,6.217544,,https://services.lemet.fr/fr/biv/arret/7592,0,,1
+5034,,"GRANGE AUX ORMES",,49.080851,6.146461,,https://services.lemet.fr/fr/biv/arret/1426,0,,1
+5002,,"GRANGE AUX ORMES",,49.080670,6.146240,,https://services.lemet.fr/fr/biv/arret/1426,0,,1
+153,,"GROS NOYERS",,49.133828,6.280047,,,0,,1
+6290,,"GUYENNE",,49.111443,6.218923,,https://services.lemet.fr/fr/biv/arret/1618,0,,1
+6295,,"GUYENNE",,49.111443,6.218923,,https://services.lemet.fr/fr/biv/arret/1618,0,,1
+210,,"HAIE BRULEE",,49.110841,6.097291,,https://services.lemet.fr/fr/biv/arret/7604,0,,2
+278,,"HAIE BRULEE",,49.111049,6.096904,,https://services.lemet.fr/fr/biv/arret/7539,0,,2
+807,,"HAMEAU JERUSALEM",,49.186009,6.037485,,https://services.lemet.fr/fr/biv/arret/11667,0,,1
+942,,"HAMEAU JERUSALEM",,49.186111,6.038332,,https://services.lemet.fr/fr/biv/arret/11667,0,,1
+801,,"HAMEAU JERUSALEM",,49.185555,6.040000,,https://services.lemet.fr/fr/biv/arret/11667,0,,1
+5015,,"HAUTS DE BOUTAN",,49.067217,6.169898,,https://services.lemet.fr/fr/biv/arret/7271,0,,1
+348,,"HERMITE",,49.105859,6.187393,,https://services.lemet.fr/fr/biv/arret/1578,0,,2
+336,,"HERMITE",,49.105763,6.187373,,https://services.lemet.fr/fr/biv/arret/1578,0,,2
+286,,"HESTAUX",,49.100964,6.191641,,https://services.lemet.fr/fr/biv/arret/1520,0,,1
+287,,"HESTAUX",,49.100936,6.191504,,https://services.lemet.fr/fr/biv/arret/1520,0,,1
+5055,,"HETRES",,49.131963,6.209181,,https://services.lemet.fr/fr/biv/arret/7593,0,,1
+5041,,"HETRES",,49.132344,6.208729,,https://services.lemet.fr/fr/biv/arret/7593,0,,1
+902,,"HOPITAL MERCY",,49.085830,6.243860,,https://services.lemet.fr/fr/biv/arret/1625,0,,1
+900,,"HOPITAL MERCY",,49.085840,6.243710,,https://services.lemet.fr/fr/biv/arret/1625,0,,1
+511,,"LA HORGNE",,49.092979,6.172841,,https://services.lemet.fr/fr/biv/arret/7430,0,,1
+134,,"LA HORGNE",,49.093283,6.172531,,https://services.lemet.fr/fr/biv/arret/7430,0,,1
+5027,,"HOTEL DE VILLE",,49.060077,6.154155,,https://services.lemet.fr/fr/biv/arret/1561,0,,1
+5010,,"HOTEL DE VILLE",,49.060039,6.154227,,https://services.lemet.fr/fr/biv/arret/1561,0,,1
+903,,"HOPITAL SCHUMAN",,49.123286,6.242129,,https://services.lemet.fr/fr/biv/arret/1478,0,,1
+904,,"HOPITAL SCHUMAN",,49.123709,6.242434,,https://services.lemet.fr/fr/biv/arret/1478,0,,1
+5053,,"HAUT SORET",,49.135105,6.213814,,https://services.lemet.fr/fr/biv/arret/7300,0,,1
+5046,,"HAUT SORET",,49.135420,6.213610,,https://services.lemet.fr/fr/biv/arret/7300,0,,1
+311,,"HAUTS-DE-MAGNY",,49.074131,6.190759,,https://services.lemet.fr/fr/biv/arret/1592,0,,2
+585,,"HAUTS-DE-MAGNY",,49.074087,6.190827,,https://services.lemet.fr/fr/biv/arret/1592,0,,2
+56,,"HAUT-RHELE",,49.099066,6.132326,,https://services.lemet.fr/fr/biv/arret/1529,0,,1
+47,,"HAUT-RHELE",,49.099083,6.132364,,https://services.lemet.fr/fr/biv/arret/1529,0,,1
+317,,"HAUT DE WOICON",,49.132800,6.135280,,https://services.lemet.fr/fr/biv/arret/69992,0,,2
+641,,"IKEA",,49.151735,6.189134,,https://services.lemet.fr/fr/biv/arret/7282,0,,1
+642,,"IKEA",,49.151769,6.188096,,https://services.lemet.fr/fr/biv/arret/7282,0,,1
+456,,"INTENDANTS JOBA",,49.140476,6.165982,,https://services.lemet.fr/fr/biv/arret/1450,0,,2
+443,,"INTENDANTS JOBA",,49.141590,6.165230,,https://services.lemet.fr/fr/biv/arret/1450,0,,2
+378,,"JACINTHES",,49.123956,6.225906,,https://services.lemet.fr/fr/biv/arret/7341,0,,1
+437,,"JACINTHES",,49.123890,6.226270,,https://services.lemet.fr/fr/biv/arret/7341,0,,1
+5106,,"JEANNE D'ARC",,49.089281,6.153389,,https://services.lemet.fr/fr/biv/arret/1427,0,,2
+5524,,"JEANNE D'ARC",,49.089642,6.153691,,https://services.lemet.fr/fr/biv/arret/1427,0,,2
+532,,"JERUSALEM",,49.091728,6.167170,,https://services.lemet.fr/fr/biv/arret/1542,0,,1
+531,,"JERUSALEM",,49.091910,6.167250,,https://services.lemet.fr/fr/biv/arret/1542,0,,1
+867,,"JEAN FERRAT",,49.077520,6.080706,,https://services.lemet.fr/fr/biv/arret/6948,0,,2
+866,,"JEAN FERRAT",,49.078385,6.081764,,https://services.lemet.fr/fr/biv/arret/6948,0,,2
+648,,"JEAN LAURAIN",,49.153155,6.139950,,https://services.lemet.fr/fr/biv/arret/1577,0,,2
+647,,"JEAN LAURAIN",,49.153314,6.139920,,https://services.lemet.fr/fr/biv/arret/1577,0,,2
+467,,"JULES MICHELET",,49.107634,6.227988,,https://services.lemet.fr/fr/biv/arret/1638,0,,1
+521,,"JULES MICHELET",,49.107319,6.228185,,https://services.lemet.fr/fr/biv/arret/1638,0,,1
+6050,,"INTENDANTS JOBA",,49.141569,6.165333,,https://services.lemet.fr/fr/biv/arret/1450,0,,1
+6055,,"INTENDANTS JOBA",,49.141186,6.165521,,https://services.lemet.fr/fr/biv/arret/1450,0,,1
+5025,,"CROIX ST JOSEPH",,49.058975,6.158887,,https://services.lemet.fr/fr/biv/arret/1559,0,,1
+5012,,"CROIX ST JOSEPH",,49.058990,6.159201,,https://services.lemet.fr/fr/biv/arret/1559,0,,1
+494,,"JOUSSE",,49.123025,6.206269,,https://services.lemet.fr/fr/biv/arret/7342,0,,1
+481,,"JOUSSE",,49.122933,6.206892,,https://services.lemet.fr/fr/biv/arret/7342,0,,1
+491,,"J.P. JEAN",,49.125797,6.217510,,https://services.lemet.fr/fr/biv/arret/1488,0,,2
+484,,"J.P. JEAN",,49.125759,6.217174,,https://services.lemet.fr/fr/biv/arret/1488,0,,2
+493,,"JUGAN",,49.122481,6.212212,,https://services.lemet.fr/fr/biv/arret/7343,0,,2
+482,,"JUGAN",,49.122370,6.213373,,https://services.lemet.fr/fr/biv/arret/7343,0,,2
+392,,"JUIN",,49.118136,6.189842,,https://services.lemet.fr/fr/biv/arret/7344,0,,1
+364,,"JUIN",,49.118409,6.189948,,https://services.lemet.fr/fr/biv/arret/7344,0,,1
+859,,"JUNGLING",,49.148516,6.152681,,https://services.lemet.fr/fr/biv/arret/1448,0,,2
+858,,"JUNGLING",,49.148392,6.152380,,https://services.lemet.fr/fr/biv/arret/1448,0,,2
+386,,"JURA",,49.118481,6.200633,,https://services.lemet.fr/fr/biv/arret/1417,0,,2
+370,,"JURA",,49.118479,6.200509,,https://services.lemet.fr/fr/biv/arret/1417,0,,2
+979,,"JURY",,49.069560,6.253290,,https://services.lemet.fr/fr/biv/arret/1607,0,,1
+969,,"JURY",,49.069640,6.253580,,https://services.lemet.fr/fr/biv/arret/1607,0,,1
+231,,"JUSSY - STE-RUFFINE",,49.105080,6.089318,,https://services.lemet.fr/fr/biv/arret/7605,0,,2
+719,,"JUSTICE",,49.166549,6.038358,,https://services.lemet.fr/fr/biv/arret/1454,0,,1
+28,,"LACRETELLE",,49.112745,6.185069,,https://services.lemet.fr/fr/biv/arret/7349,0,,1
+6,,"LACRETELLE",,49.113428,6.185961,,https://services.lemet.fr/fr/biv/arret/7349,0,,1
+329,,"LA CROIX",,49.129037,6.130390,,https://services.lemet.fr/fr/biv/arret/7511,0,,1
+544,,"LA DAME",,49.098943,6.243364,,https://services.lemet.fr/fr/biv/arret/7347,0,,1
+541,,"LA DAME",,49.098572,6.243959,,https://services.lemet.fr/fr/biv/arret/7347,0,,1
+442,,"LADONCHAMPS",,49.154328,6.153073,,https://services.lemet.fr/fr/biv/arret/7783,0,,2
+441,,"LADONCHAMPS",,49.154064,6.152506,,https://services.lemet.fr/fr/biv/arret/7783,0,,2
+112,,"LAFAYETTE",,49.107800,6.172740,,https://services.lemet.fr/fr/biv/arret/7350,0,,1
+91,,"LAFAYETTE",,49.108030,6.172980,,https://services.lemet.fr/fr/biv/arret/7350,0,,1
+623,,"LA MAXE",,49.168601,6.189448,,https://services.lemet.fr/fr/biv/arret/1502,0,,2
+621,,"LA MAXE",,49.168728,6.189421,,https://services.lemet.fr/fr/biv/arret/1502,0,,2
+972,,"LANCEUMONT",,49.053990,6.275650,,https://services.lemet.fr/fr/biv/arret/7285,0,,1
+988,,"LANCEUMONT",,49.054228,6.275283,,https://services.lemet.fr/fr/biv/arret/7285,0,,1
+905,,"LANCEUMONT",,49.054191,6.274581,,https://services.lemet.fr/fr/biv/arret/7285,0,,1
+794,,"LAQUENEXY",,49.078280,6.315940,,https://services.lemet.fr/fr/biv/arret/7219,0,,1
+817,,"LAQUENEXY",,49.078440,6.315411,,https://services.lemet.fr/fr/biv/arret/7219,0,,1
+220,,"LARDEMELLE",,49.123808,6.149309,,https://services.lemet.fr/fr/biv/arret/6959,0,,1
+557,,"LARDEMELLE",,49.124130,6.149947,,https://services.lemet.fr/fr/biv/arret/6959,0,,1
+5030,,"LARGANTIER",,49.062854,6.146246,,https://services.lemet.fr/fr/biv/arret/7272,0,,1
+5006,,"LARGANTIER",,49.062189,6.146438,,https://services.lemet.fr/fr/biv/arret/7272,0,,1
+736,,"LASSAUX",,49.116189,6.097919,,https://services.lemet.fr/fr/biv/arret/1599,0,,2
+718,,"LASSAUX",,49.116286,6.097992,,https://services.lemet.fr/fr/biv/arret/1599,0,,2
+951,,"LAUVALLIERES",,49.124040,6.260030,,https://services.lemet.fr/fr/biv/arret/1479,0,,2
+959,,"LAVANDIERES",,49.148355,6.124134,,https://services.lemet.fr/fr/biv/arret/1469,0,,1
+960,,"LAVANDIERES",,49.148355,6.124134,,https://services.lemet.fr/fr/biv/arret/1469,0,,1
+137,,"LAVOIR",,49.097385,6.174626,,https://services.lemet.fr/fr/biv/arret/1552,0,,1
+243,,"LAVOIR",,49.096835,6.175178,,https://services.lemet.fr/fr/biv/arret/1552,0,,1
+211,,"LECLERC",,49.111108,6.130608,,https://services.lemet.fr/fr/biv/arret/7226,0,,2
+272,,"LECLERC",,49.110796,6.129704,,https://services.lemet.fr/fr/biv/arret/7226,0,,2
+6170,,"HOPITAL LEGOUEST",,49.111705,6.192059,,https://services.lemet.fr/fr/biv/arret/7340,0,,1
+6175,,"HOPITAL LEGOUEST",,49.111845,6.192939,,https://services.lemet.fr/fr/biv/arret/7340,0,,1
+545,,"LE LAC",,49.096410,6.238379,,https://services.lemet.fr/fr/biv/arret/26295,0,,2
+412,,"LE MOYNE",,49.131490,6.156323,,https://services.lemet.fr/fr/biv/arret/7352,0,,2
+397,,"LE MOYNE",,49.131289,6.156678,,https://services.lemet.fr/fr/biv/arret/7352,0,,2
+2580,,"LEMUD",,49.104134,6.179665,,https://services.lemet.fr/fr/biv/arret/26296,0,,1
+2330,,"LEMUD",,49.104250,6.179548,,https://services.lemet.fr/fr/biv/arret/26296,0,,1
+635,,"LE PATIS",,49.156248,6.140034,,https://services.lemet.fr/fr/biv/arret/7784,0,,1
+5032,,"LES CLOS",,49.073839,6.147819,,https://services.lemet.fr/fr/biv/arret/26279,0,,1
+5004,,"LES CLOS",,49.072923,6.148046,,https://services.lemet.fr/fr/biv/arret/26279,0,,1
+788,,"LESSY",,49.120911,6.094850,,https://services.lemet.fr/fr/biv/arret/1597,0,,2
+716,,"LESSY",,49.120919,6.094679,,https://services.lemet.fr/fr/biv/arret/1597,0,,2
+703,,"LIBERATION",,49.061254,6.118142,,https://services.lemet.fr/fr/biv/arret/1435,0,,2
+710,,"LIBERATION",,49.061254,6.117849,,https://services.lemet.fr/fr/biv/arret/1435,0,,2
+282,,"LIBERTE",,49.107419,6.116081,,https://services.lemet.fr/fr/biv/arret/7628,0,,1
+274,,"LIBERTE",,49.107597,6.116957,,https://services.lemet.fr/fr/biv/arret/7628,0,,1
+3007,,"LILAS",,49.095588,6.143667,,https://services.lemet.fr/fr/biv/arret/1546,0,,2
+3000,,"LILAS",,49.095687,6.143521,,https://services.lemet.fr/fr/biv/arret/1546,0,,2
+61,,"LITALDUS-HOTEL DE VILLE",,49.099976,6.152631,,https://services.lemet.fr/fr/biv/arret/7431,0,,1
+42,,"LITALDUS-HOTEL DE VILLE",,49.099441,6.151063,,https://services.lemet.fr/fr/biv/arret/7431,0,,2
+434,,"LES MOULINS",,49.129950,6.237470,,https://services.lemet.fr/fr/biv/arret/1484,0,,1
+433,,"LES MOULINS",,49.130000,6.237770,,https://services.lemet.fr/fr/biv/arret/1484,0,,1
+516,,"LOGES",,49.098781,6.159231,,https://services.lemet.fr/fr/biv/arret/7432,0,,1
+510,,"LOGES",,49.099049,6.158200,,https://services.lemet.fr/fr/biv/arret/7432,0,,1
+212,,"LONGEVILLE",,49.112409,6.134323,,https://services.lemet.fr/fr/biv/arret/7227,0,,2
+271,,"LONGEVILLE",,49.112725,6.135222,,https://services.lemet.fr/fr/biv/arret/7227,0,,2
+379,,"LORIENT",,49.122467,6.224792,,https://services.lemet.fr/fr/biv/arret/7355,0,,2
+377,,"LORIENT",,49.122632,6.225374,,https://services.lemet.fr/fr/biv/arret/7355,0,,2
+84,,"LORRAINE",,49.102709,6.109166,,https://services.lemet.fr/fr/biv/arret/1444,0,,2
+818,,"LORRAINE",,49.101199,6.108043,,https://services.lemet.fr/fr/biv/arret/1444,0,,2
+724,,"LORRY GRAND RUE",,49.141782,6.118452,,https://services.lemet.fr/fr/biv/arret/1460,0,,2
+731,,"LORRY GRAND RUE",,49.141784,6.118315,,https://services.lemet.fr/fr/biv/arret/1460,0,,2
+256,,"LOTHAIRE",,49.099271,6.180423,,https://services.lemet.fr/fr/biv/arret/7356,0,,1
+235,,"LOTHAIRE",,49.099576,6.180356,,https://services.lemet.fr/fr/biv/arret/7356,0,,1
+692,,"LOTHAIRE",,49.100328,6.180862,,https://services.lemet.fr/fr/biv/arret/7356,0,,1
+693,,"LOTHAIRE",,49.100333,6.181056,,https://services.lemet.fr/fr/biv/arret/7356,0,,1
+78,,"LOTISSEMENT INDUSTRIEL",,49.089203,6.123365,,https://services.lemet.fr/fr/biv/arret/1412,0,,1
+74,,"LOTISSEMENT INDUSTRIEL",,49.089741,6.124332,,https://services.lemet.fr/fr/biv/arret/1412,0,,1
+704,,"LOTISSEMENT",,49.064045,6.116576,,https://services.lemet.fr/fr/biv/arret/6953,0,,1
+709,,"LOTISSEMENT",,49.063500,6.116390,,https://services.lemet.fr/fr/biv/arret/6953,0,,1
+850,,"LUETTE",,49.085306,6.148632,,https://services.lemet.fr/fr/biv/arret/7275,0,,2
+851,,"LUETTE",,49.085376,6.148345,,https://services.lemet.fr/fr/biv/arret/7275,0,,2
+6110,,"SQUARE DU LUXEMBOURG",,49.121245,6.168918,,https://services.lemet.fr/fr/biv/arret/1466,0,,1
+6115,,"SQUARE DU LUXEMBOURG",,49.121246,6.168921,,https://services.lemet.fr/fr/biv/arret/1466,0,,1
+104,,"LYAUTEY",,49.093500,6.167980,,https://services.lemet.fr/fr/biv/arret/7433,0,,1
+656,,"LYAUTEY",,49.093940,6.168179,,https://services.lemet.fr/fr/biv/arret/7433,0,,1
+99,,"LYAUTEY",,49.093910,6.167520,,https://services.lemet.fr/fr/biv/arret/7433,0,,1
+773,,"LYCEE FOURNIER",,49.103290,6.177680,,https://services.lemet.fr/fr/biv/arret/69986,0,,2
+775,,"LYCEE FOURNIER",,49.103270,6.177670,,https://services.lemet.fr/fr/biv/arret/69986,0,,2
+9,,"MAGNY PAUL VERLAINE",,49.073842,6.186419,,https://services.lemet.fr/fr/biv/arret/70219,0,,1
+246,,"MAGNY-AU-BOIS",,49.075206,6.194991,,https://services.lemet.fr/fr/biv/arret/7357,0,,2
+581,,"MAGNY-AU-BOIS",,49.075410,6.195379,,https://services.lemet.fr/fr/biv/arret/7357,0,,2
+779,,"MAHIRE",,49.050101,6.184511,,https://services.lemet.fr/fr/biv/arret/7518,0,,1
+772,,"MALMAISON",,49.124955,6.017008,,https://services.lemet.fr/fr/biv/arret/1438,0,,2
+768,,"MALMAISON",,49.125027,6.016890,,https://services.lemet.fr/fr/biv/arret/1438,0,,2
+489,,"MY MANGENOT",,49.127813,6.225469,,https://services.lemet.fr/fr/biv/arret/1486,0,,2
+486,,"MY MANGENOT",,49.127912,6.225781,,https://services.lemet.fr/fr/biv/arret/1486,0,,2
+109,,"MANGIN",,49.102880,6.164599,,https://services.lemet.fr/fr/biv/arret/7358,0,,2
+94,,"MANGIN",,49.102570,6.164369,,https://services.lemet.fr/fr/biv/arret/7358,0,,1
+63,,"MARCONI",,49.100588,6.217791,,https://services.lemet.fr/fr/biv/arret/1522,0,,2
+40,,"MARCONI",,49.100592,6.217981,,https://services.lemet.fr/fr/biv/arret/1522,0,,2
+927,,"MARC SANGNIER",,49.089355,6.159382,,https://services.lemet.fr/fr/biv/arret/1549,0,,2
+930,,"MARC SANGNIER",,49.089247,6.159298,,https://services.lemet.fr/fr/biv/arret/1549,0,,1
+547,,"MARGUERITE",,49.088292,6.159708,,https://services.lemet.fr/fr/biv/arret/7434,0,,2
+540,,"MARGUERITE",,49.088491,6.159318,,https://services.lemet.fr/fr/biv/arret/7434,0,,2
+843,,"MARIEULLES",,48.998825,6.100303,,https://services.lemet.fr/fr/biv/arret/7262,0,,1
+5019,,"MARLY",,49.061007,6.166711,,https://services.lemet.fr/fr/biv/arret/7276,0,,1
+7,,"MARLY",,49.061007,6.166711,,https://services.lemet.fr/fr/biv/arret/7276,0,,1
+304,,"MARNE",,49.126698,6.154243,,https://services.lemet.fr/fr/biv/arret/26275,0,,1
+222,,"MARNE",,49.126760,6.154310,,https://services.lemet.fr/fr/biv/arret/26275,0,,1
+603,,"MARRONNIERS",,49.134239,6.215401,,https://services.lemet.fr/fr/biv/arret/1499,0,,1
+5045,,"MARRONNIERS",,49.134319,6.215283,,https://services.lemet.fr/fr/biv/arret/1499,0,,1
+935,,"MASARIEULLES",,49.203537,6.046659,,,0,,1
+936,,"MASARIEULLES",,49.203421,6.046497,,,0,,1
+748,,"MAS AU LIEVRE",,49.130196,6.275761,,https://services.lemet.fr/fr/biv/arret/26321,0,,1
+861,,"MAS AU LIEVRE",,49.130289,6.275718,,https://services.lemet.fr/fr/biv/arret/26321,0,,1
+6370,,"MATERNITE",,49.082090,6.238732,,https://services.lemet.fr/fr/biv/arret/26323,0,,1
+6375,,"MATERNITE",,49.082161,6.239011,,https://services.lemet.fr/fr/biv/arret/26323,0,,1
+383,,"MAUJEAN",,49.120179,6.214947,,https://services.lemet.fr/fr/biv/arret/7359,0,,1
+373,,"MAUJEAN",,49.120197,6.214533,,https://services.lemet.fr/fr/biv/arret/7359,0,,1
+888,,"MAZELLE",,49.114125,6.182420,,https://services.lemet.fr/fr/biv/arret/7360,0,,1
+198,,"MAZELLE",,49.114951,6.184847,,https://services.lemet.fr/fr/biv/arret/7360,0,,2
+974,,"MECLEUVES",,49.042400,6.268120,,https://services.lemet.fr/fr/biv/arret/1610,0,,1
+986,,"MECLEUVES",,49.042250,6.268461,,https://services.lemet.fr/fr/biv/arret/1610,0,,1
+607,,"MELEZES",,49.128165,6.203304,,https://services.lemet.fr/fr/biv/arret/7594,0,,1
+599,,"MELEZES",,49.127850,6.203633,,https://services.lemet.fr/fr/biv/arret/7594,0,,1
+6360,,"HOPITAL MERCY",,49.084587,6.242098,,https://services.lemet.fr/fr/biv/arret/1625,0,,1
+6365,,"HOPITAL MERCY",,49.084587,6.242099,,https://services.lemet.fr/fr/biv/arret/1625,0,,1
+360,,"MERMOZ",,49.093544,6.151580,,https://services.lemet.fr/fr/biv/arret/7435,0,,2
+355,,"MERMOZ",,49.093986,6.152085,,https://services.lemet.fr/fr/biv/arret/7435,0,,2
+384,,"METMAN",,49.120046,6.208878,,https://services.lemet.fr/fr/biv/arret/7361,0,,1
+372,,"METMAN",,49.120111,6.209556,,https://services.lemet.fr/fr/biv/arret/7361,0,,1
+682,,"METZANINE",,49.107053,6.231395,,https://services.lemet.fr/fr/biv/arret/7290,0,,1
+681,,"METZANINE",,49.106729,6.231413,,https://services.lemet.fr/fr/biv/arret/7290,0,,1
+3005,,"MEURISSE",,49.101675,6.155199,,https://services.lemet.fr/fr/biv/arret/26316,0,,1
+3012,,"MEURISSE",,49.102196,6.156036,,https://services.lemet.fr/fr/biv/arret/26316,0,,1
+563,,"MEY LES VIGNES",,49.133960,6.237639,,https://services.lemet.fr/fr/biv/arret/7421,0,,2
+6260,,"JULES MICHELET",,49.107653,6.228691,,https://services.lemet.fr/fr/biv/arret/1638,0,,1
+6265,,"JULES MICHELET",,49.107653,6.228691,,https://services.lemet.fr/fr/biv/arret/1638,0,,1
+5017,,"MICHEL ANGE",,49.059365,6.169093,,https://services.lemet.fr/fr/biv/arret/7277,0,,1
+213,,"MIGETTE",,49.114136,6.139048,,https://services.lemet.fr/fr/biv/arret/7228,0,,2
+270,,"MIGETTE",,49.113966,6.138610,,https://services.lemet.fr/fr/biv/arret/7228,0,,2
+941,,"MINE",,49.198097,6.034813,,,0,,1
+940,,"MINE",,49.198009,6.034932,,,0,,1
+422,,"MIRABELLES",,49.131199,6.145880,,https://services.lemet.fr/fr/biv/arret/1540,0,,1
+416,,"MIRABELLES",,49.130667,6.145525,,https://services.lemet.fr/fr/biv/arret/1540,0,,1
+380,,"MAISON NEUVE",,49.110280,6.091201,,https://services.lemet.fr/fr/biv/arret/7540,0,,1
+868,,"MAISON NEUVE",,49.110280,6.091201,,https://services.lemet.fr/fr/biv/arret/7540,0,,1
+328,,"MOMENE",,49.129188,6.127607,,https://services.lemet.fr/fr/biv/arret/7512,0,,1
+667,,"MOULIN NEUF",,49.112139,6.095168,,https://services.lemet.fr/fr/biv/arret/60125,0,,2
+312,,"MOULIN NEUF",,49.112319,6.095103,,https://services.lemet.fr/fr/biv/arret/60125,0,,2
+804,,"ST-PRIVAT-LA-MONTAGNE",,49.184845,6.044487,,https://services.lemet.fr/fr/biv/arret/26330,0,,1
+833,,"ST-PRIVAT-LA-MONTAGNE",,49.158622,6.106141,,https://services.lemet.fr/fr/biv/arret/26330,0,,1
+160,,"MORLOT",,49.141124,6.150791,,https://services.lemet.fr/fr/biv/arret/7785,0,,1
+158,,"MORLOT",,49.141084,6.150367,,https://services.lemet.fr/fr/biv/arret/7785,0,,1
+275,,"MOULINS",,49.106477,6.111286,,https://services.lemet.fr/fr/biv/arret/1584,0,,1
+281,,"MOULINS",,49.106440,6.111200,,https://services.lemet.fr/fr/biv/arret/1584,0,,1
+86,,"MOULINS",,49.105475,6.110561,,https://services.lemet.fr/fr/biv/arret/1584,0,,2
+85,,"MOULINS MAIRIE",,49.106994,6.106338,,https://services.lemet.fr/fr/biv/arret/7459,0,,2
+998,,"MOYEN PONT",,49.119814,6.171282,,https://services.lemet.fr/fr/biv/arret/102973,0,,1
+503,,"MONTIGNY ST-PRIVAT",,49.084587,6.154709,,https://services.lemet.fr/fr/biv/arret/7437,0,,2
+62,,"NATION",,49.101364,6.154804,,https://services.lemet.fr/fr/biv/arret/1413,0,,1
+41,,"NATION",,49.101308,6.154675,,https://services.lemet.fr/fr/biv/arret/1413,0,,1
+411,,"NICOLAS JUNG",,49.133680,6.152525,,https://services.lemet.fr/fr/biv/arret/7363,0,,2
+398,,"NICOLAS JUNG",,49.133334,6.153096,,https://services.lemet.fr/fr/biv/arret/7363,0,,2
+551,,"NONNETIERS",,49.114700,6.235634,,https://services.lemet.fr/fr/biv/arret/7364,0,,1
+550,,"NONNETIERS",,49.114745,6.237012,,https://services.lemet.fr/fr/biv/arret/7364,0,,1
+790,,"NOUILLONS",,49.111846,6.097380,,https://services.lemet.fr/fr/biv/arret/1601,0,,2
+785,,"NOUILLONS",,49.112055,6.097330,,https://services.lemet.fr/fr/biv/arret/1601,0,,2
+751,,"NOUILLY CENTRE",,49.136056,6.258509,,https://services.lemet.fr/fr/biv/arret/1482,0,,2
+245,,"OBELLIANE",,49.076040,6.192849,,https://services.lemet.fr/fr/biv/arret/1590,0,,2
+582,,"OBELLIANE",,49.076140,6.192630,,https://services.lemet.fr/fr/biv/arret/1590,0,,2
+183,,"OBERLING",,49.103385,6.202415,,https://services.lemet.fr/fr/biv/arret/7365,0,,1
+193,,"OBERLING",,49.103229,6.202711,,https://services.lemet.fr/fr/biv/arret/7365,0,,1
+653,,"OBERLING",,49.103150,6.204709,,https://services.lemet.fr/fr/biv/arret/7365,0,,1
+668,,"OBERLING",,49.103156,6.204046,,https://services.lemet.fr/fr/biv/arret/7365,0,,1
+458,,"OEILLETS",,49.125193,6.230550,,https://services.lemet.fr/fr/biv/arret/7366,0,,1
+147,,"OFFICE DE TOURISME",,49.120069,6.176481,,https://services.lemet.fr/fr/biv/arret/106001,0,,1
+871,,"ORLY",,49.075620,6.116550,,https://services.lemet.fr/fr/biv/arret/26273,0,,1
+872,,"ORLY",,49.075870,6.116931,,https://services.lemet.fr/fr/biv/arret/26273,0,,1
+218,,"PALAIS  DES SPORTS",,49.111121,6.161525,,https://services.lemet.fr/fr/biv/arret/1497,0,,1
+203,,"PALAIS  DES SPORTS",,49.111233,6.161236,,https://services.lemet.fr/fr/biv/arret/1497,0,,1
+120,,"PAQUERETTES",,49.094400,6.123851,,https://services.lemet.fr/fr/biv/arret/1527,0,,1
+119,,"PAQUERETTES",,49.094430,6.123770,,https://services.lemet.fr/fr/biv/arret/1527,0,,1
+163,,"PAQUET",,49.135059,6.156782,,https://services.lemet.fr/fr/biv/arret/1570,0,,2
+155,,"PAQUET",,49.135083,6.156760,,https://services.lemet.fr/fr/biv/arret/1570,0,,2
+393,,"PARAIGES",,49.117232,6.179856,,https://services.lemet.fr/fr/biv/arret/7367,0,,1
+995,,"LA PASSERELLE",,49.075067,6.256375,,https://services.lemet.fr/fr/biv/arret/28064,0,,1
+996,,"LA PASSERELLE",,49.074881,6.256506,,https://services.lemet.fr/fr/biv/arret/28064,0,,1
+227,,"PASSOTTE",,49.093074,6.239673,,https://services.lemet.fr/fr/biv/arret/1512,0,,1
+226,,"PASSOTTE",,49.092848,6.239898,,https://services.lemet.fr/fr/biv/arret/1512,0,,1
+164,,"PATROTTE",,49.134585,6.161235,,https://services.lemet.fr/fr/biv/arret/7368,0,,1
+154,,"PATROTTE",,49.134796,6.161172,,https://services.lemet.fr/fr/biv/arret/7368,0,,1
+965,,"PELTRE GARE",,49.074330,6.222700,,https://services.lemet.fr/fr/biv/arret/26322,0,,1
+983,,"PELTRE GARE",,49.074380,6.222640,,https://services.lemet.fr/fr/biv/arret/26322,0,,1
+910,,"POLE MULTIMODAL",,49.107110,6.177470,,https://services.lemet.fr/fr/biv/arret/26304,0,,2
+911,,"POLE MULTIMODAL",,49.107070,6.177387,,https://services.lemet.fr/fr/biv/arret/26304,0,,2
+912,,"POLE MULTIMODAL",,49.107130,6.177520,,https://services.lemet.fr/fr/biv/arret/26304,0,,2
+913,,"POLE MULTIMODAL",,49.106940,6.177100,,https://services.lemet.fr/fr/biv/arret/26304,0,,2
+914,,"POLE MULTIMODAL",,49.107070,6.177387,,https://services.lemet.fr/fr/biv/arret/26304,0,,2
+916,,"POLE MULTIMODAL",,49.107110,6.177470,,https://services.lemet.fr/fr/biv/arret/26304,0,,2
+836,,"PENSEES",,49.134659,6.273620,,https://services.lemet.fr/fr/biv/arret/1481,0,,2
+835,,"PENSEES",,49.134718,6.273891,,https://services.lemet.fr/fr/biv/arret/1481,0,,2
+216,,"PEPINIERES",,49.114076,6.154931,,https://services.lemet.fr/fr/biv/arret/7229,0,,1
+205,,"PEPINIERES",,49.114283,6.154505,,https://services.lemet.fr/fr/biv/arret/7229,0,,1
+967,,"PEUMONT",,49.076700,6.232070,,https://services.lemet.fr/fr/biv/arret/1605,0,,1
+981,,"PEUMONT",,49.076810,6.232140,,https://services.lemet.fr/fr/biv/arret/1605,0,,1
+508,,"PEUPLIERS",,49.104668,6.208690,,https://services.lemet.fr/fr/biv/arret/7371,0,,2
+500,,"PEUPLIERS",,49.105085,6.210269,,https://services.lemet.fr/fr/biv/arret/7371,0,,2
+257,,"PIERNE",,49.102273,6.179863,,https://services.lemet.fr/fr/biv/arret/7372,0,,1
+234,,"PIERNE",,49.102558,6.179825,,https://services.lemet.fr/fr/biv/arret/7372,0,,1
+625,,"PIERRET",,49.164089,6.188698,,https://services.lemet.fr/fr/biv/arret/7283,0,,2
+619,,"PIERRET",,49.163588,6.188512,,https://services.lemet.fr/fr/biv/arret/7283,0,,2
+750,,"PINOTS MELES",,49.134469,6.270569,,https://services.lemet.fr/fr/biv/arret/7495,0,,2
+755,,"PINOTS MELES",,49.134438,6.271576,,https://services.lemet.fr/fr/biv/arret/7495,0,,2
+604,,"PINS",,49.132392,6.215935,,https://services.lemet.fr/fr/biv/arret/26302,0,,1
+5044,,"PINS",,49.132405,6.215813,,https://services.lemet.fr/fr/biv/arret/26302,0,,1
+241,,"PISCINE OLYMPIQUE",,49.100580,6.186501,,https://services.lemet.fr/fr/biv/arret/7374,0,,2
+240,,"PISCINE OLYMPIQUE",,49.100489,6.185619,,https://services.lemet.fr/fr/biv/arret/7374,0,,2
+174,,"PIVOINES",,49.125861,6.227397,,https://services.lemet.fr/fr/biv/arret/7375,0,,1
+646,,"PAUL JOLY",,49.063946,6.148353,,https://services.lemet.fr/fr/biv/arret/1563,0,,1
+645,,"PAUL JOLY",,49.063956,6.148349,,https://services.lemet.fr/fr/biv/arret/1563,0,,1
+739,,"PLACE PUBLIQUE",,49.154572,6.118160,,https://services.lemet.fr/fr/biv/arret/1468,0,,1
+744,,"PLACE PUBLIQUE",,49.154617,6.118041,,https://services.lemet.fr/fr/biv/arret/1468,0,,1
+248,,"LA PLAINE",,49.078720,6.189810,,https://services.lemet.fr/fr/biv/arret/1588,0,,1
+579,,"LA PLAINE",,49.078680,6.189760,,https://services.lemet.fr/fr/biv/arret/1588,0,,1
+327,,"PLAPPEVILLE",,49.130529,6.124464,,https://services.lemet.fr/fr/biv/arret/7513,0,,2
+722,,"LES PLAQUETTES",,49.169047,6.051426,,https://services.lemet.fr/fr/biv/arret/26271,0,,1
+733,,"LES PLAQUETTES",,49.169204,6.051248,,https://services.lemet.fr/fr/biv/arret/26271,0,,1
+145,,"PLACE D'ARMES",,49.119478,6.175437,,https://services.lemet.fr/fr/biv/arret/1568,0,,1
+1004,,"PLACE D'ARMES",,49.119340,6.175570,,https://services.lemet.fr/fr/biv/arret/1568,0,,1
+260,,"PLATEAU",,49.082390,6.184219,,https://services.lemet.fr/fr/biv/arret/7376,0,,1
+261,,"PLATEAU",,49.081550,6.185229,,https://services.lemet.fr/fr/biv/arret/7376,0,,1
+1020,,"PLACE DE CHAMBRE",,49.120317,6.173846,,https://services.lemet.fr/fr/biv/arret/28069,0,,2
+19,,"PLACE DE CHAMBRE",,49.120314,6.173985,,https://services.lemet.fr/fr/biv/arret/28069,0,,1
+457,,"PLACE DE FRANCE",,49.156261,6.153043,,https://services.lemet.fr/fr/biv/arret/7786,0,,2
+5024,,"PLACE DE GAULLE",,49.060938,6.162506,,https://services.lemet.fr/fr/biv/arret/7278,0,,1
+5013,,"PLACE DE GAULLE",,49.060080,6.162630,,https://services.lemet.fr/fr/biv/arret/7278,0,,1
+879,,"POINCARE",,49.116424,6.168559,,https://services.lemet.fr/fr/biv/arret/26303,0,,1
+880,,"POINCARE",,49.117649,6.169115,,https://services.lemet.fr/fr/biv/arret/26303,0,,1
+6150,,"CENTRE POMPIDOU METZ",,49.109098,6.180880,,https://services.lemet.fr/fr/biv/arret/1587,0,,1
+6155,,"CENTRE POMPIDOU METZ",,49.109098,6.180879,,https://services.lemet.fr/fr/biv/arret/1587,0,,1
+5070,,"LA POMMERAIE",,49.033478,6.162407,,https://services.lemet.fr/fr/biv/arret/7004,0,,2
+5074,,"LA POMMERAIE",,49.033591,6.161991,,https://services.lemet.fr/fr/biv/arret/7004,0,,2
+27,,"PONT MOREAU",,49.123721,6.175377,,https://services.lemet.fr/fr/biv/arret/106003,0,,1
+797,,"CENTRE POMPIDOU METZ",,49.108401,6.180385,,https://services.lemet.fr/fr/biv/arret/1587,0,,1
+796,,"CENTRE POMPIDOU METZ",,49.108318,6.180437,,https://services.lemet.fr/fr/biv/arret/1587,0,,1
+6090,,"PONTIFFROY",,49.127140,6.174876,,https://services.lemet.fr/fr/biv/arret/26305,0,,1
+6095,,"PONTIFFROY",,49.127138,6.174877,,https://services.lemet.fr/fr/biv/arret/26305,0,,1
+526,,"PONSARD",,49.089591,6.147259,,https://services.lemet.fr/fr/biv/arret/1547,0,,2
+358,,"PONSARD",,49.089631,6.147179,,https://services.lemet.fr/fr/biv/arret/1547,0,,2
+169,,"PONTIFFROY",,49.127360,6.175441,,https://services.lemet.fr/fr/biv/arret/26305,0,,1
+149,,"PONTIFFROY",,49.127471,6.175816,,https://services.lemet.fr/fr/biv/arret/26305,0,,1
+664,,"PONT ROUGE",,49.114821,6.189005,,https://services.lemet.fr/fr/biv/arret/1536,0,,1
+665,,"PONT ROUGE",,49.114710,6.188867,,https://services.lemet.fr/fr/biv/arret/1536,0,,1
+288,,"PONT DE VERDUN",,49.119032,6.144237,,https://services.lemet.fr/fr/biv/arret/1586,0,,1
+268,,"PONT DE VERDUN",,49.119567,6.144533,,https://services.lemet.fr/fr/biv/arret/1586,0,,1
+629,,"PORT DE METZ",,49.137311,6.180807,,https://services.lemet.fr/fr/biv/arret/7379,0,,2
+615,,"PORT DE METZ",,49.137572,6.181031,,https://services.lemet.fr/fr/biv/arret/7379,0,,2
+815,,"POSTE EDF",,49.151940,6.213803,,https://services.lemet.fr/fr/biv/arret/1472,0,,2
+816,,"POSTE EDF",,49.151940,6.213803,,https://services.lemet.fr/fr/biv/arret/1472,0,,2
+674,,"POTIERS D'ETAIN",,49.115719,6.243662,,https://services.lemet.fr/fr/biv/arret/26306,0,,1
+432,,"POTIERS D'ETAIN",,49.116148,6.243641,,https://services.lemet.fr/fr/biv/arret/26306,0,,1
+782,,"POUILLY",,49.049818,6.188396,,https://services.lemet.fr/fr/biv/arret/7519,0,,1
+856,,"POULMAIRE",,49.151113,6.165887,,https://services.lemet.fr/fr/biv/arret/7787,0,,2
+740,,"POULMAIRE",,49.151153,6.166943,,https://services.lemet.fr/fr/biv/arret/7787,0,,2
+5078,,"POURNOY-LA-CHETIVE",,49.020422,6.155370,,https://services.lemet.fr/fr/biv/arret/26324,0,,1
+5077,,"POURNOY-LA-CHETIVE",,49.020792,6.155158,,https://services.lemet.fr/fr/biv/arret/26324,0,,1
+1000,,"PREFECTURE",,49.121710,6.174370,,https://services.lemet.fr/fr/biv/arret/7381,0,,2
+438,,"PREFECTURE",,49.121305,6.175270,,https://services.lemet.fr/fr/biv/arret/7381,0,,2
+435,,"PREFECTURE",,49.121590,6.174796,,https://services.lemet.fr/fr/biv/arret/7381,0,,2
+418,,"PRE NET",,49.081200,6.308091,,https://services.lemet.fr/fr/biv/arret/1507,0,,1
+419,,"PRE NET",,49.081120,6.308259,,https://services.lemet.fr/fr/biv/arret/1507,0,,1
+324,,"PRES ST-JACQUES",,49.134312,6.130838,,https://services.lemet.fr/fr/biv/arret/7514,0,,2
+834,,"PRESSOIR",,49.135232,6.257092,,https://services.lemet.fr/fr/biv/arret/1483,0,,2
+292,,"PREVILLE",,49.102307,6.104872,,https://services.lemet.fr/fr/biv/arret/7460,0,,1
+295,,"PREVILLE",,49.102224,6.104457,,https://services.lemet.fr/fr/biv/arret/7460,0,,2
+5361,,"PREVOTE",,49.092873,6.156398,,https://services.lemet.fr/fr/biv/arret/7438,0,,2
+5354,,"PREVOTE",,49.091612,6.155352,,https://services.lemet.fr/fr/biv/arret/7438,0,,2
+762,,"PRIEURE",,49.107937,6.085251,,,0,,2
+263,,"EN PRILLE",,49.109541,6.125934,,https://services.lemet.fr/fr/biv/arret/7627,0,,1
+262,,"EN PRILLE",,49.109378,6.125309,,https://services.lemet.fr/fr/biv/arret/7627,0,,2
+6210,,"PROVENCE",,49.113262,6.216811,,https://services.lemet.fr/fr/biv/arret/7382,0,,1
+6215,,"PROVENCE",,49.113265,6.216819,,https://services.lemet.fr/fr/biv/arret/7382,0,,1
+23,,"PROVENCE",,49.112835,6.215728,,https://services.lemet.fr/fr/biv/arret/7382,0,,1
+11,,"PROVENCE",,49.112796,6.215883,,https://services.lemet.fr/fr/biv/arret/7382,0,,1
+832,,"PETIT COEUR",,49.166107,6.040384,,https://services.lemet.fr/fr/biv/arret/1455,0,,1
+589,,"PETIT CLOU",,49.076551,6.184011,,https://services.lemet.fr/fr/biv/arret/7369,0,,1
+306,,"PETIT CLOU",,49.074774,6.184282,,https://services.lemet.fr/fr/biv/arret/7369,0,,1
+978,,"PETIT JURY",,49.067090,6.245551,,https://services.lemet.fr/fr/biv/arret/1608,0,,2
+970,,"PETIT JURY",,49.066950,6.245420,,https://services.lemet.fr/fr/biv/arret/1608,0,,2
+385,,"PETITES SOEURS",,49.119000,6.204281,,https://services.lemet.fr/fr/biv/arret/1418,0,,1
+371,,"PETITES SOEURS",,49.119007,6.204234,,https://services.lemet.fr/fr/biv/arret/1418,0,,1
+2385,,"PETITES SOEURS",,49.118360,6.203830,,https://services.lemet.fr/fr/biv/arret/1418,0,,2
+2378,,"PETITES SOEURS",,49.118451,6.203901,,https://services.lemet.fr/fr/biv/arret/1418,0,,1
+196,,"PUYMAIGRE",,49.107034,6.194725,,https://services.lemet.fr/fr/biv/arret/7383,0,,1
+787,,"LE QUOITY",,49.123278,6.094879,,https://services.lemet.fr/fr/biv/arret/7224,0,,2
+391,,"RAPHAEL LEVY",,49.120040,6.190601,,https://services.lemet.fr/fr/biv/arret/7384,0,,1
+365,,"RAPHAEL LEVY",,49.120317,6.190744,,https://services.lemet.fr/fr/biv/arret/7384,0,,1
+923,,"RAYMOND MONDON",,49.200869,6.037802,,,0,,1
+924,,"RAYMOND MONDON",,49.200897,6.038033,,,0,,1
+863,,"ROUTE DE BOULAY",,49.126685,6.268260,,https://services.lemet.fr/fr/biv/arret/7496,0,,2
+862,,"ROUTE DE BOULAY",,49.126497,6.267760,,https://services.lemet.fr/fr/biv/arret/7496,0,,2
+32,,"RD66",,49.031333,6.097731,,,0,,1
+33,,"RD66",,49.031286,6.096974,,,0,,1
+6120,,"REPUBLIQUE",,49.114995,6.173385,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+6125,,"REPUBLIQUE",,49.115833,6.172877,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+5051,,"REPUBLIQUE",,49.114485,6.172077,,https://services.lemet.fr/fr/biv/arret/1516,0,,2
+5052,,"REPUBLIQUE",,49.114320,6.172450,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+123,,"REPUBLIQUE",,49.115614,6.173439,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+173,,"REPUBLIQUE",,49.114947,6.173441,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+436,,"REPUBLIQUE",,49.114500,6.172990,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+1,,"REPUBLIQUE",,49.115245,6.173645,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+88,,"REPUBLIQUE",,49.115436,6.174237,,https://services.lemet.fr/fr/biv/arret/1516,0,,1
+170,,"RIMPORT",,49.124096,6.181054,,https://services.lemet.fr/fr/biv/arret/7387,0,,1
+440,,"RIMPORT",,49.124458,6.182114,,https://services.lemet.fr/fr/biv/arret/7387,0,,1
+6080,,"P+R ROCHAMBEAU",,49.129663,6.170075,,https://services.lemet.fr/fr/biv/arret/1632,0,,1
+6085,,"P+R ROCHAMBEAU",,49.129561,6.170356,,https://services.lemet.fr/fr/biv/arret/1632,0,,1
+168,,"P+R ROCHAMBEAU",,49.129429,6.170241,,https://services.lemet.fr/fr/biv/arret/1632,0,,1
+150,,"P+R ROCHAMBEAU",,49.129526,6.170049,,https://services.lemet.fr/fr/biv/arret/1632,0,,1
+514,,"ROEDERER",,49.097990,6.202697,,https://services.lemet.fr/fr/biv/arret/7388,0,,2
+513,,"ROEDERER",,49.098707,6.203577,,https://services.lemet.fr/fr/biv/arret/7388,0,,2
+477,,"ROGET",,49.149171,6.169056,,https://services.lemet.fr/fr/biv/arret/26334,0,,1
+498,,"ROGET",,49.149287,6.169623,,https://services.lemet.fr/fr/biv/arret/26334,0,,1
+6130,,"ROI GEORGE",,49.110651,6.171616,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+6135,,"ROI GEORGE",,49.110752,6.171479,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+142,,"ROI GEORGE",,49.111048,6.172034,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+352,,"ROI GEORGE",,49.109801,6.170433,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+694,,"ROI GEORGE",,49.110789,6.171108,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+695,,"ROI GEORGE",,49.110789,6.171108,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+34,,"ROI GEORGE",,49.110369,6.169100,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+68,,"ROI GEORGE",,49.109940,6.170550,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+89,,"ROI GEORGE",,49.110965,6.171984,,https://services.lemet.fr/fr/biv/arret/1567,0,,1
+939,,"RONCOURT",,49.204139,6.051606,,,0,,1
+933,,"RONCOURT CENTRE",,49.202631,6.041235,,,0,,1
+934,,"RONCOURT CENTRE",,49.201994,6.041096,,,0,,1
+921,,"RONCOURT EGLISE",,49.199366,6.035935,,,0,,1
+922,,"RONCOURT EGLISE",,49.199492,6.036390,,,0,,1
+247,,"ROOSEVELT",,49.077240,6.193779,,https://services.lemet.fr/fr/biv/arret/1589,0,,1
+580,,"ROOSEVELT",,49.077030,6.194050,,https://services.lemet.fr/fr/biv/arret/1589,0,,1
+587,,"ROSEAUX",,49.071276,6.185710,,https://services.lemet.fr/fr/biv/arret/7389,0,,2
+308,,"ROSEAUX",,49.071263,6.186714,,https://services.lemet.fr/fr/biv/arret/7389,0,,2
+672,,"ROSE GONTHIER",,49.103095,6.243447,,https://services.lemet.fr/fr/biv/arret/26310,0,,1
+671,,"ROSE GONTHIER",,49.103080,6.243479,,https://services.lemet.fr/fr/biv/arret/26310,0,,1
+655,,"ROSE MARCUS",,49.147417,6.148651,,https://services.lemet.fr/fr/biv/arret/1575,0,,2
+654,,"ROSE MARCUS",,49.147379,6.148470,,https://services.lemet.fr/fr/biv/arret/1575,0,,2
+394,,"IME LA ROSERAIE",,49.097967,6.075020,,,0,,1
+77,,"ROTONDE",,49.087806,6.118275,,https://services.lemet.fr/fr/biv/arret/7461,0,,2
+75,,"ROTONDE",,49.087253,6.117156,,https://services.lemet.fr/fr/biv/arret/7461,0,,2
+6040,,"EMILE ROUX",,49.144727,6.166327,,https://services.lemet.fr/fr/biv/arret/1630,0,,1
+6045,,"EMILE ROUX",,49.144727,6.166327,,https://services.lemet.fr/fr/biv/arret/1630,0,,1
+407,,"ROUSSEL",,49.135555,6.140031,,https://services.lemet.fr/fr/biv/arret/7390,0,,1
+402,,"ROUSSEL",,49.135449,6.139462,,https://services.lemet.fr/fr/biv/arret/7390,0,,1
+814,,"SCHUMAN",,49.110626,6.112126,,https://services.lemet.fr/fr/biv/arret/7629,0,,2
+811,,"SCHUMAN",,49.110858,6.111853,,https://services.lemet.fr/fr/biv/arret/7629,0,,2
+662,,"ROUTE DE BORNY",,49.115019,6.192011,,https://services.lemet.fr/fr/biv/arret/7391,0,,1
+663,,"ROUTE DE BORNY",,49.115028,6.192803,,https://services.lemet.fr/fr/biv/arret/7391,0,,1
+639,,"RUCHER",,49.144803,6.147904,,https://services.lemet.fr/fr/biv/arret/1574,0,,2
+631,,"RUCHER",,49.145003,6.147890,,https://services.lemet.fr/fr/biv/arret/1574,0,,2
+774,,"RUE D'ARS",,49.112024,6.028842,,https://services.lemet.fr/fr/biv/arret/7106,0,,2
+778,,"RUE D'ARS",,49.111974,6.028865,,https://services.lemet.fr/fr/biv/arret/7106,0,,2
+805,,"RUE DES ECOLES",,49.188930,6.038179,,https://services.lemet.fr/fr/biv/arret/27651,0,,1
+803,,"RUE DES ECOLES",,49.189010,6.038159,,https://services.lemet.fr/fr/biv/arret/27651,0,,1
+675,,"RUELLE CHENEAU",,49.115068,6.196979,,https://services.lemet.fr/fr/biv/arret/7392,0,,1
+676,,"RUELLE CHENEAU",,49.115101,6.197865,,https://services.lemet.fr/fr/biv/arret/7392,0,,1
+738,,"RUE DE METZ",,49.155754,6.113134,,https://services.lemet.fr/fr/biv/arret/1467,0,,1
+745,,"RUE DE METZ",,49.155763,6.113093,,https://services.lemet.fr/fr/biv/arret/1467,0,,1
+666,,"RUE DU MOULIN",,49.155819,6.105067,,https://services.lemet.fr/fr/biv/arret/16130,0,,2
+742,,"RUISSEAU",,49.151049,6.158635,,https://services.lemet.fr/fr/biv/arret/1501,0,,2
+743,,"RUISSEAU",,49.151083,6.158612,,https://services.lemet.fr/fr/biv/arret/1501,0,,2
+351,,"SABLIERES",,49.086445,6.163728,,https://services.lemet.fr/fr/biv/arret/7439,0,,1
+534,,"SABLIERES",,49.086268,6.163136,,https://services.lemet.fr/fr/biv/arret/7439,0,,1
+760,,"SALETTE",,49.152886,6.246759,,https://services.lemet.fr/fr/biv/arret/7761,0,,2
+409,,"SANSONNET",,49.136369,6.147307,,https://services.lemet.fr/fr/biv/arret/1463,0,,1
+400,,"SANSONNET",,49.136475,6.147045,,https://services.lemet.fr/fr/biv/arret/1463,0,,1
+677,,"SARRE",,49.114594,6.231023,,https://services.lemet.fr/fr/biv/arret/7393,0,,1
+678,,"SARRE",,49.114650,6.233648,,https://services.lemet.fr/fr/biv/arret/7393,0,,1
+6280,,"SAULCY",,49.120733,6.164674,,https://services.lemet.fr/fr/biv/arret/7394,0,,1
+6285,,"SAULCY",,49.120430,6.164552,,https://services.lemet.fr/fr/biv/arret/7394,0,,1
+638,,"SAULES",,49.147632,6.152458,,https://services.lemet.fr/fr/biv/arret/1576,0,,1
+632,,"SAULES",,49.147642,6.152451,,https://services.lemet.fr/fr/biv/arret/1576,0,,1
+490,,"SAULNOIS",,49.126479,6.221821,,https://services.lemet.fr/fr/biv/arret/1487,0,,2
+485,,"SAULNOIS",,49.126514,6.222033,,https://services.lemet.fr/fr/biv/arret/1487,0,,2
+737,,"SAULNY CENTRE",,49.158620,6.106141,,https://services.lemet.fr/fr/biv/arret/11670,0,,2
+766,,"SAULNY CENTRE",,49.158864,6.105980,,https://services.lemet.fr/fr/biv/arret/11670,0,,1
+54,,"SAVOIE",,49.096142,6.127414,,https://services.lemet.fr/fr/biv/arret/1528,0,,1
+49,,"SAVOIE",,49.096056,6.127234,,https://services.lemet.fr/fr/biv/arret/1528,0,,1
+717,,"SCY-CHAZELLES",,49.114110,6.116820,,https://services.lemet.fr/fr/biv/arret/7631,0,,2
+825,,"SCHWALBACH",,49.079280,6.065761,,https://services.lemet.fr/fr/biv/arret/1442,0,,1
+823,,"SCHWALBACH",,49.079330,6.065510,,https://services.lemet.fr/fr/biv/arret/1442,0,,1
+359,,"DOCTEUR SCHWEITZER",,49.116339,6.217147,,,0,,1
+361,,"DOCTEUR SCHWEITZER",,49.116404,6.216995,,,0,,1
+283,,"SCY BAS",,49.108550,6.121820,,https://services.lemet.fr/fr/biv/arret/26331,0,,1
+273,,"SCY BAS",,49.108430,6.120870,,https://services.lemet.fr/fr/biv/arret/26331,0,,1
+299,,"SEBASTOPOL",,49.107885,6.237844,,https://services.lemet.fr/fr/biv/arret/7395,0,,1
+542,,"SEBASTOPOL",,49.107638,6.238711,,https://services.lemet.fr/fr/biv/arret/7395,0,,1
+25,,"STE-SEGOLENE",,49.121248,6.179707,,https://services.lemet.fr/fr/biv/arret/106004,0,,1
+6160,,"SEILLE",,49.111741,6.185901,,https://services.lemet.fr/fr/biv/arret/1517,0,,1
+6165,,"SEILLE",,49.111647,6.185626,,https://services.lemet.fr/fr/biv/arret/1517,0,,1
+5,,"SEILLE",,49.111295,6.186127,,https://services.lemet.fr/fr/biv/arret/1517,0,,1
+177,,"SEILLE",,49.111432,6.186076,,https://services.lemet.fr/fr/biv/arret/1517,0,,1
+447,,"SELLIERS",,49.114191,6.247357,,https://services.lemet.fr/fr/biv/arret/1555,0,,1
+446,,"SELLIERS",,49.114048,6.247509,,https://services.lemet.fr/fr/biv/arret/1555,0,,1
+107,,"SEMINAIRE",,49.097949,6.160483,,https://services.lemet.fr/fr/biv/arret/7440,0,,1
+96,,"SEMINAIRE",,49.097280,6.159970,,https://services.lemet.fr/fr/biv/arret/7440,0,,1
+1024,,"RUE SERPENOISE",,49.117164,6.175487,,https://services.lemet.fr/fr/biv/arret/28072,0,,2
+279,,"SERRET",,49.109991,6.099552,,https://services.lemet.fr/fr/biv/arret/1583,0,,2
+277,,"SERRET",,49.109900,6.099858,,https://services.lemet.fr/fr/biv/arret/1583,0,,2
+673,,"SERRURIERS",,49.118262,6.240132,,https://services.lemet.fr/fr/biv/arret/7396,0,,1
+424,,"SERRURIERS",,49.118611,6.240000,,https://services.lemet.fr/fr/biv/arret/7396,0,,1
+574,,"SEULHOTTE",,49.101316,6.208325,,https://services.lemet.fr/fr/biv/arret/1521,0,,2
+572,,"SEULHOTTE",,49.101458,6.208595,,https://services.lemet.fr/fr/biv/arret/1521,0,,2
+228,,"ST-SIGISBERT",,49.122261,6.149006,,https://services.lemet.fr/fr/biv/arret/6960,0,,1
+219,,"ST-SIGISBERT",,49.122458,6.148739,,https://services.lemet.fr/fr/biv/arret/6960,0,,2
+628,,"LES SILOS",,49.140359,6.186424,,https://services.lemet.fr/fr/biv/arret/7353,0,,2
+616,,"LES SILOS",,49.140745,6.187161,,https://services.lemet.fr/fr/biv/arret/7353,0,,2
+357,,"SIMMINGER",,49.090304,6.144877,,https://services.lemet.fr/fr/biv/arret/1525,0,,1
+527,,"SIMMINGER",,49.090231,6.144980,,https://services.lemet.fr/fr/biv/arret/1525,0,,1
+689,,"SIMMINGER",,49.089885,6.144612,,https://services.lemet.fr/fr/biv/arret/1525,0,,1
+690,,"SIMMINGER",,49.089972,6.144756,,https://services.lemet.fr/fr/biv/arret/1525,0,,1
+139,,"ST-LIVIER",,49.100236,6.175472,,https://services.lemet.fr/fr/biv/arret/26311,0,,1
+128,,"ST-LIVIER",,49.101033,6.175172,,https://services.lemet.fr/fr/biv/arret/26311,0,,1
+289,,"ST-MARTIN",,49.121573,6.150804,,https://services.lemet.fr/fr/biv/arret/6961,0,,1
+267,,"ST-MARTIN",,49.121714,6.151256,,https://services.lemet.fr/fr/biv/arret/6961,0,,1
+298,,"SOLIDARITE",,49.108048,6.243106,,https://services.lemet.fr/fr/biv/arret/7397,0,,1
+509,,"SOLIDARITE",,49.107803,6.243051,,https://services.lemet.fr/fr/biv/arret/7397,0,,1
+5031,,"LES SORBIERS",,49.068535,6.146847,,https://services.lemet.fr/fr/biv/arret/7274,0,,1
+5005,,"LES SORBIERS",,49.068926,6.146890,,https://services.lemet.fr/fr/biv/arret/7274,0,,1
+116,,"SQUARE DU LUXEMBOURG",,49.121211,6.168953,,https://services.lemet.fr/fr/biv/arret/1466,0,,1
+118,,"SQUARE DU LUXEMBOURG",,49.121233,6.168829,,https://services.lemet.fr/fr/biv/arret/1466,0,,1
+122,,"SQUARE DU LUXEMBOURG",,49.121399,6.168131,,https://services.lemet.fr/fr/biv/arret/1466,0,,1
+264,,"SQUARE DU LUXEMBOURG",,49.121440,6.167969,,https://services.lemet.fr/fr/biv/arret/1466,0,,1
+325,,"STADE",,49.131649,6.130784,,https://services.lemet.fr/fr/biv/arret/7515,0,,1
+876,,"STE-AGATHE",,49.164269,6.153869,,https://services.lemet.fr/fr/biv/arret/1446,0,,2
+883,,"STE-AGATHE",,49.164145,6.153887,,https://services.lemet.fr/fr/biv/arret/1446,0,,2
+106,,"ST-ANDRE",,49.096050,6.159085,,https://services.lemet.fr/fr/biv/arret/7441,0,,2
+5097,,"ST-ANDRE",,49.095000,6.158130,,https://services.lemet.fr/fr/biv/arret/7441,0,,2
+97,,"ST-ANDRE",,49.095161,6.159006,,https://services.lemet.fr/fr/biv/arret/7441,0,,2
+5029,,"ST-BRICE",,49.060249,6.150115,,https://services.lemet.fr/fr/biv/arret/1562,0,,1
+5007,,"ST-BRICE",,49.060630,6.149240,,https://services.lemet.fr/fr/biv/arret/1562,0,,1
+931,,"ST-EXUPERY",,49.086386,6.154441,,https://services.lemet.fr/fr/biv/arret/7442,0,,2
+926,,"ST-EXUPERY",,49.086575,6.154082,,https://services.lemet.fr/fr/biv/arret/7442,0,,2
+171,,"ST-GEORGES",,49.122696,6.178363,,https://services.lemet.fr/fr/biv/arret/7398,0,,1
+439,,"ST-GEORGES",,49.122449,6.178004,,https://services.lemet.fr/fr/biv/arret/7398,0,,1
+280,,"ST-JEAN",,49.108046,6.104965,,https://services.lemet.fr/fr/biv/arret/7462,0,,2
+276,,"ST-JEAN",,49.107761,6.105710,,https://services.lemet.fr/fr/biv/arret/7462,0,,1
+5049,,"ST-JULIEN EGLISE",,49.134292,6.202512,,https://services.lemet.fr/fr/biv/arret/1474,0,,1
+5037,,"ST-JULIEN EGLISE",,49.134488,6.202701,,https://services.lemet.fr/fr/biv/arret/1474,0,,1
+5066,,"ST-JULIEN FORT",,49.140795,6.205836,,https://services.lemet.fr/fr/biv/arret/7595,0,,2
+601,,"ST-JULIEN FORT",,49.141380,6.206611,,https://services.lemet.fr/fr/biv/arret/7595,0,,2
+518,,"ST-LADRE",,49.096922,6.154974,,https://services.lemet.fr/fr/biv/arret/26317,0,,2
+517,,"ST-LADRE",,49.097128,6.155211,,https://services.lemet.fr/fr/biv/arret/26317,0,,2
+1007,,"ST-LOUIS",,49.116690,6.179530,,https://services.lemet.fr/fr/biv/arret/7401,0,,1
+195,,"ST-MAXIMIN",,49.105781,6.196741,,https://services.lemet.fr/fr/biv/arret/1518,0,,1
+181,,"ST-MAXIMIN",,49.105726,6.196618,,https://services.lemet.fr/fr/biv/arret/1518,0,,1
+31,,"ST-NICOLAS",,49.113468,6.178366,,https://services.lemet.fr/fr/biv/arret/26312,0,,1
+3,,"ST-NICOLAS",,49.112979,6.177394,,https://services.lemet.fr/fr/biv/arret/26312,0,,1
+387,,"STOXEY",,49.120074,6.196174,,https://services.lemet.fr/fr/biv/arret/7406,0,,1
+369,,"STOXEY",,49.119177,6.196322,,https://services.lemet.fr/fr/biv/arret/7406,0,,1
+828,,"ST-PAUL",,49.083369,6.087056,,https://services.lemet.fr/fr/biv/arret/6947,0,,1
+820,,"ST-PAUL",,49.083150,6.086633,,https://services.lemet.fr/fr/biv/arret/6947,0,,1
+59,,"ST-QUENTIN",,49.097373,6.144350,,https://services.lemet.fr/fr/biv/arret/7443,0,,2
+507,,"ST-QUENTIN",,49.097040,6.143281,,https://services.lemet.fr/fr/biv/arret/7443,0,,2
+890,,"ST-REMY",,49.173763,6.162021,,https://services.lemet.fr/fr/biv/arret/7789,0,,2
+590,,"ST-ROCH",,49.079117,6.184032,,https://services.lemet.fr/fr/biv/arret/7404,0,,1
+242,,"ST-ROCH",,49.078383,6.183834,,https://services.lemet.fr/fr/biv/arret/7404,0,,1
+303,,"ST-SIMON",,49.127707,6.151972,,https://services.lemet.fr/fr/biv/arret/26313,0,,1
+223,,"ST-SIMON",,49.127468,6.152503,,https://services.lemet.fr/fr/biv/arret/26313,0,,1
+98,,"SUGNON",,49.094149,6.163161,,https://services.lemet.fr/fr/biv/arret/1541,0,,1
+105,,"SUGNON",,49.094130,6.163420,,https://services.lemet.fr/fr/biv/arret/1541,0,,1
+60,,"ST-VICTOR",,49.098320,6.147441,,https://services.lemet.fr/fr/biv/arret/7444,0,,1
+43,,"ST-VICTOR",,49.097961,6.146272,,https://services.lemet.fr/fr/biv/arret/7444,0,,1
+285,,"SYMPHONIE",,49.104655,6.214243,,https://services.lemet.fr/fr/biv/arret/7407,0,,2
+284,,"SYMPHONIE",,49.104956,6.215043,,https://services.lemet.fr/fr/biv/arret/7407,0,,2
+102,,"SYMPHONIE",,49.104259,6.215028,,https://services.lemet.fr/fr/biv/arret/7407,0,,2
+497,,"TANNERIE",,49.126892,6.192310,,https://services.lemet.fr/fr/biv/arret/26326,0,,2
+478,,"TANNERIE",,49.126966,6.193015,,https://services.lemet.fr/fr/biv/arret/1475,0,,2
+556,,"TANNEURS",,49.119381,6.181936,,https://services.lemet.fr/fr/biv/arret/7408,0,,2
+363,,"TANNEURS",,49.120125,6.184069,,https://services.lemet.fr/fr/biv/arret/7408,0,,2
+973,,"LES TARREAUX",,49.043900,6.270610,,https://services.lemet.fr/fr/biv/arret/1609,0,,2
+987,,"LES TARREAUX",,49.044075,6.270719,,https://services.lemet.fr/fr/biv/arret/1609,0,,2
+792,,"TELEGRAPHE",,49.146826,6.003117,,https://services.lemet.fr/fr/biv/arret/1437,0,,2
+770,,"TELEGRAPHE",,49.146826,6.003117,,https://services.lemet.fr/fr/biv/arret/1437,0,,2
+897,,"TEMPLE",,49.078820,6.069921,,https://services.lemet.fr/fr/biv/arret/6949,0,,1
+896,,"TEMPLE",,49.079110,6.069737,,https://services.lemet.fr/fr/biv/arret/6949,0,,1
+5050,,"TERRES ROUGES",,49.129762,6.197286,,https://services.lemet.fr/fr/biv/arret/27636,0,,2
+5036,,"TERRES ROUGES",,49.129964,6.197548,,https://services.lemet.fr/fr/biv/arret/27636,0,,2
+1012,,"TETE D'OR",,49.117314,6.177094,,https://services.lemet.fr/fr/biv/arret/7409,0,,2
+780,,"THERMES",,49.050293,6.183417,,https://services.lemet.fr/fr/biv/arret/7520,0,,2
+266,,"TIGNOMONT",,49.125883,6.159390,,https://services.lemet.fr/fr/biv/arret/1465,0,,1
+290,,"TIGNOMONT",,49.126208,6.159407,,https://services.lemet.fr/fr/biv/arret/1465,0,,1
+395,,"TIGNOMONT",,49.127619,6.160069,,https://services.lemet.fr/fr/biv/arret/1465,0,,1
+414,,"TIGNOMONT",,49.127533,6.160006,,https://services.lemet.fr/fr/biv/arret/1465,0,,1
+5039,,"TILLEULS",,49.134490,6.207790,,https://services.lemet.fr/fr/biv/arret/26327,0,,1
+5047,,"TILLEULS",,49.134044,6.207506,,https://services.lemet.fr/fr/biv/arret/26327,0,,1
+8321,,"TIVOLI",,49.099280,6.188816,,https://services.lemet.fr/fr/biv/arret/7411,0,,1
+8322,,"TIVOLI",,49.099591,6.188689,,https://services.lemet.fr/fr/biv/arret/7411,0,,1
+333,,"TORTUE",,49.128371,6.148195,,https://services.lemet.fr/fr/biv/arret/1491,0,,1
+224,,"TORTUE",,49.128361,6.148446,,https://services.lemet.fr/fr/biv/arret/1491,0,,1
+82,,"TOURAINE",,49.095566,6.138685,,https://services.lemet.fr/fr/biv/arret/7445,0,,1
+70,,"TOURAINE",,49.095125,6.137334,,https://services.lemet.fr/fr/biv/arret/7445,0,,1
+76,,"TOURNEBRIDE",,49.085418,6.113457,,https://services.lemet.fr/fr/biv/arret/7463,0,,2
+121,,"TOURNEBRIDE",,49.085970,6.113350,,https://services.lemet.fr/fr/biv/arret/7463,0,,2
+197,,"TREIZE",,49.110096,6.189480,,https://services.lemet.fr/fr/biv/arret/7412,0,,1
+548,,"VACONS",,49.087466,6.164294,,https://services.lemet.fr/fr/biv/arret/1564,0,,1
+539,,"VACONS",,49.087485,6.164532,,https://services.lemet.fr/fr/biv/arret/1564,0,,1
+535,,"VACONS",,49.087626,6.165392,,https://services.lemet.fr/fr/biv/arret/1564,0,,1
+538,,"VACONS",,49.087738,6.165216,,https://services.lemet.fr/fr/biv/arret/1564,0,,1
+108,,"VAILLANT",,49.100454,6.162568,,https://services.lemet.fr/fr/biv/arret/7414,0,,1
+95,,"VAILLANT",,49.099700,6.161980,,https://services.lemet.fr/fr/biv/arret/7414,0,,1
+586,,"VALERIANE",,49.070865,6.188770,,https://services.lemet.fr/fr/biv/arret/7415,0,,2
+225,,"VALERIANE",,49.070585,6.190306,,https://services.lemet.fr/fr/biv/arret/7415,0,,1
+470,,"VALERY",,49.110560,6.218337,,https://services.lemet.fr/fr/biv/arret/69983,0,,2
+464,,"VALERY",,49.110656,6.218282,,https://services.lemet.fr/fr/biv/arret/69983,0,,2
+143,,"PLACE VALLADIER",,49.123933,6.176746,,https://services.lemet.fr/fr/biv/arret/106002,0,,1
+980,,"LES VALLONS",,49.078400,6.265351,,https://services.lemet.fr/fr/biv/arret/7203,0,,1
+968,,"LES VALLONS",,49.077760,6.265101,,https://services.lemet.fr/fr/biv/arret/7203,0,,1
+714,,"VAL DE METZ",,49.093270,6.093405,,https://services.lemet.fr/fr/biv/arret/7768,0,,2
+715,,"VAL DE METZ",,49.093369,6.092531,,https://services.lemet.fr/fr/biv/arret/7768,0,,2
+254,,"VANDERNOOT",,49.095763,6.180679,,https://services.lemet.fr/fr/biv/arret/1515,0,,2
+237,,"VANDERNOOT",,49.095555,6.180705,,https://services.lemet.fr/fr/biv/arret/1515,0,,2
+759,,"VANY",,49.156509,6.239068,,https://services.lemet.fr/fr/biv/arret/7762,0,,1
+757,,"VANY",,49.156189,6.239552,,https://services.lemet.fr/fr/biv/arret/7762,0,,1
+117,,"QUAI VAUTRIN",,49.119605,6.171465,,https://services.lemet.fr/fr/biv/arret/64735,0,,2
+8,,"QUAI VAUTRIN",,49.119169,6.170879,,https://services.lemet.fr/fr/biv/arret/64735,0,,1
+713,,"VAUX",,49.093080,6.080640,,https://services.lemet.fr/fr/biv/arret/7767,0,,2
+976,,"VILLAGE CANADIEN",,49.056540,6.239320,,https://services.lemet.fr/fr/biv/arret/7002,0,,2
+984,,"VILLAGE CANADIEN",,49.056185,6.239601,,https://services.lemet.fr/fr/biv/arret/7002,0,,2
+698,,"VECRIN",,49.091515,6.266735,,https://services.lemet.fr/fr/biv/arret/1510,0,,2
+699,,"VECRIN",,49.091556,6.266926,,https://services.lemet.fr/fr/biv/arret/1510,0,,2
+824,,"VERDUN",,49.080128,6.058151,,https://services.lemet.fr/fr/biv/arret/1441,0,,1
+853,,"VERDUN",,49.080128,6.058151,,https://services.lemet.fr/fr/biv/arret/1441,0,,1
+684,,"VERGERS",,49.102299,6.146406,,https://services.lemet.fr/fr/biv/arret/26318,0,,1
+683,,"VERGERS",,49.101906,6.146168,,https://services.lemet.fr/fr/biv/arret/26318,0,,1
+67,,"VERLAINE",,49.108240,6.167981,,https://services.lemet.fr/fr/biv/arret/7416,0,,1
+36,,"VERLAINE",,49.109510,6.166875,,https://services.lemet.fr/fr/biv/arret/7416,0,,2
+887,,"VERLIN",,49.113330,6.027887,,https://services.lemet.fr/fr/biv/arret/1439,0,,1
+889,,"VERLIN",,49.113328,6.027888,,https://services.lemet.fr/fr/biv/arret/1439,0,,1
+771,,"VERNEVILLE",,49.145264,6.005350,,https://services.lemet.fr/fr/biv/arret/7770,0,,2
+769,,"VERNEVILLE",,49.145044,6.005744,,https://services.lemet.fr/fr/biv/arret/7770,0,,2
+844,,"VEZON",,49.006553,6.094864,,https://services.lemet.fr/fr/biv/arret/1431,0,,1
+842,,"VEZON",,49.006553,6.094864,,https://services.lemet.fr/fr/biv/arret/1431,0,,1
+221,,"VICTOIRE",,49.125086,6.153174,,https://services.lemet.fr/fr/biv/arret/1494,0,,1
+558,,"VICTOIRE",,49.124987,6.153064,,https://services.lemet.fr/fr/biv/arret/1494,0,,1
+14,,"VIEILLES EAUX",,49.103859,6.108081,,https://services.lemet.fr/fr/biv/arret/68448,0,,2
+15,,"VIEILLES EAUX",,49.103770,6.108311,,https://services.lemet.fr/fr/biv/arret/68448,0,,2
+421,,"LES VIGNES",,49.129368,6.145365,,https://services.lemet.fr/fr/biv/arret/26298,0,,2
+417,,"LES VIGNES",,49.128849,6.145215,,https://services.lemet.fr/fr/biv/arret/26298,0,,2
+950,,"VIGNEULLES",,49.146972,6.121133,,https://services.lemet.fr/fr/biv/arret/69990,0,,2
+5080,,"VIGNOTTES",,49.041999,6.156723,,https://services.lemet.fr/fr/biv/arret/26277,0,,1
+5079,,"VIGNOTTES",,49.041971,6.156648,,https://services.lemet.fr/fr/biv/arret/26277,0,,1
+217,,"VILLAS",,49.112731,6.157751,,https://services.lemet.fr/fr/biv/arret/1496,0,,1
+204,,"VILLAS",,49.112647,6.157929,,https://services.lemet.fr/fr/biv/arret/1496,0,,1
+650,,"VILLERS",,49.077253,6.324477,,https://services.lemet.fr/fr/biv/arret/7220,0,,1
+651,,"VILLERS",,49.077215,6.323694,,https://services.lemet.fr/fr/biv/arret/7220,0,,1
+758,,"VILLERS-L'ORME",,49.151940,6.247575,,https://services.lemet.fr/fr/biv/arret/7763,0,,2
+6100,,"ST-VINCENT",,49.123270,6.171396,,https://services.lemet.fr/fr/biv/arret/7405,0,,1
+6105,,"ST-VINCENT",,49.123891,6.172134,,https://services.lemet.fr/fr/biv/arret/7405,0,,1
+610,,"VOLO",,49.125353,6.206442,,https://services.lemet.fr/fr/biv/arret/1558,0,,2
+596,,"VOLO",,49.125279,6.206402,,https://services.lemet.fr/fr/biv/arret/1558,0,,2
+504,,"VOLONTAIRES",,49.086565,6.156623,,https://services.lemet.fr/fr/biv/arret/1548,0,,2
+533,,"VOLONTAIRES",,49.086587,6.156651,,https://services.lemet.fr/fr/biv/arret/1548,0,,2
+80,,"VOSGES",,49.093539,6.132516,,https://services.lemet.fr/fr/biv/arret/7466,0,,1
+72,,"VOSGES",,49.093670,6.132950,,https://services.lemet.fr/fr/biv/arret/7466,0,,1
+865,,"WAVES ACTISUD",,49.080900,6.102280,,https://services.lemet.fr/fr/biv/arret/26320,0,,1
+636,,"WOIPPY CHATEAU",,49.152951,6.145005,,https://services.lemet.fr/fr/biv/arret/7781,0,,1
+634,,"WOIPPY CHATEAU",,49.152567,6.145716,,https://services.lemet.fr/fr/biv/arret/7781,0,,1
+6010,,"P+R WOIPPY",,49.150349,6.173323,,https://services.lemet.fr/fr/biv/arret/1627,0,,1
+6015,,"P+R WOIPPY",,49.150349,6.173321,,https://services.lemet.fr/fr/biv/arret/1627,0,,1
+637,,"WOIPPY-HOTEL DE VILLE",,49.151276,6.150050,,https://services.lemet.fr/fr/biv/arret/1447,0,,2
+633,,"WOIPPY-HOTEL DE VILLE",,49.151276,6.150049,,https://services.lemet.fr/fr/biv/arret/1447,0,,2
+705,,"ZAC D'AUGNY",,49.075077,6.106751,,https://services.lemet.fr/fr/biv/arret/6954,0,,2
+708,,"ZAC D'AUGNY",,49.074174,6.107641,,https://services.lemet.fr/fr/biv/arret/6954,0,,2
+864,,"ZAC LES GRAVIERES",,49.077468,6.113065,,https://services.lemet.fr/fr/biv/arret/6955,0,,2
+878,,"ZAC PELTRE",,49.071125,6.228467,,https://services.lemet.fr/fr/biv/arret/105992,0,,1
+877,,"ZAC PELTRE",,49.070906,6.228486,,https://services.lemet.fr/fr/biv/arret/105992,0,,1
+875,,"ZONE HERGOTT",,49.159749,6.159053,,https://services.lemet.fr/fr/biv/arret/27870,0,,2
+884,,"ZONE HERGOTT",,49.158829,6.158544,,https://services.lemet.fr/fr/biv/arret/27870,0,,2
